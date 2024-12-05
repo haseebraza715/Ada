@@ -1,0 +1,1886 @@
+C:\Users\Waseer\Downloads\adaassig\obj\main.exe
+Esteban Ocon completed lap  1:  1.149764657
+Lance Stroll completed lap  1:  1.166077375
+Fernando Alonso completed lap  1:  1.154973149
+Kevin Magnussen completed lap  1:  1.152637243
+Max Verstappen completed lap  1:  1.168045402
+Lewis Hamilton completed lap  1:  1.181675315
+Nico Hulkenberg completed lap  1:  1.187260389
+Zhou Guanyu completed lap  1:  1.195090055
+Liam Lawson completed lap  1:  1.190508962
+Franco Collapinto completed lap  1:  1.192659259
+George Russel completed lap  1:  1.183896303
+Sergio Perez completed lap  1:  1.201697707
+Oscar Piastri completed lap  1:  1.212228537
+Yuki Tsunoda completed lap  1:  1.213358760
+Charles Leclerc completed lap  1:  1.224757195
+Alexander Albon completed lap  1:  1.233711362
+Pierre Gasly completed lap  1:  1.232188463
+Lando Norris completed lap  1:  1.240193248
+Carlos Sainz completed lap  1:  1.279387474
+Valtteri Bottas completed lap  1:  1.291923285
+Esteban Ocon (Alpine) - total race time:  1.149764657
+Kevin Magnussen (Haas) - total race time:  1.152637243
+Fernando Alonso (Aston Martin) - total race time:  1.154973149
+Lance Stroll (Aston Martin) - total race time:  1.166077375
+Max Verstappen (Red Bull Racing) - total race time:  1.168045402
+Lewis Hamilton (Mercedes) - total race time:  1.181675315
+George Russel (Mercedes) - total race time:  1.183896303
+Nico Hulkenberg (Haas) - total race time:  1.187260389
+Liam Lawson (RB) - total race time:  1.190508962
+Franco Collapinto (Williams) - total race time:  1.192659259
+Zhou Guanyu (Kick Sauber) - total race time:  1.195090055
+Sergio Perez (Red Bull Racing) - total race time:  1.201697707
+Oscar Piastri (McLaren) - total race time:  1.212228537
+Yuki Tsunoda (RB) - total race time:  1.213358760
+Charles Leclerc (Ferrari) - total race time:  1.224757195
+Pierre Gasly (Alpine) - total race time:  1.232188463
+Alexander Albon (Williams) - total race time:  1.233711362
+Lando Norris (McLaren) - total race time:  1.240193248
+Carlos Sainz (Ferrari) - total race time:  1.279387474
+Valtteri Bottas (Kick Sauber) - total race time:  1.291923285
+
+Esteban Ocon completed lap  2:  1.146832824
+Max Verstappen completed lap  2:  1.146461844
+Lewis Hamilton completed lap  2:  1.157050371
+Sergio Perez completed lap  2:  1.156262994
+Charles Leclerc completed lap  2:  1.151719451
+Lance Stroll completed lap  2:  1.204688787
+Oscar Piastri completed lap  2:  1.167376518
+Lando Norris completed lap  2:  1.146129489
+Fernando Alonso completed lap  2:  1.238871217
+Pierre Gasly completed lap  2:  1.185396791
+Yuki Tsunoda completed lap  2:  1.218317986
+Franco Collapinto completed lap  2:  1.231891870
+George Russel completed lap  2:  1.235024095
+Kevin Magnussen completed lap  2:  1.296455145
+Liam Lawson completed lap  2:  1.273084283
+Zhou Guanyu completed lap  2:  1.288823366
+Nico Hulkenberg completed lap  2:  1.298125625
+Alexander Albon completed lap  2:  1.272249937
+Valtteri Bottas completed lap  2:  1.214652181
+Carlos Sainz completed lap  2:  1.297956109
+Esteban Ocon (Alpine) - total race time:  2.296597481
+Max Verstappen (Red Bull Racing) - total race time:  2.314507246
+Lewis Hamilton (Mercedes) - total race time:  2.338725686
+Sergio Perez (Red Bull Racing) - total race time:  2.357960701
+Lance Stroll (Aston Martin) - total race time:  2.370766162
+Charles Leclerc (Ferrari) - total race time:  2.376476646
+Oscar Piastri (McLaren) - total race time:  2.379605055
+Lando Norris (McLaren) - total race time:  2.386322737
+Fernando Alonso (Aston Martin) - total race time:  2.393844366
+Pierre Gasly (Alpine) - total race time:  2.417585254
+George Russel (Mercedes) - total race time:  2.418920398
+Franco Collapinto (Williams) - total race time:  2.424551129
+Yuki Tsunoda (RB) - total race time:  2.431676746
+Kevin Magnussen (Haas) - total race time:  2.449092388
+Liam Lawson (RB) - total race time:  2.463593245
+Zhou Guanyu (Kick Sauber) - total race time:  2.483913421
+Nico Hulkenberg (Haas) - total race time:  2.485386014
+Alexander Albon (Williams) - total race time:  2.505961299
+Valtteri Bottas (Kick Sauber) - total race time:  2.506575466
+Carlos Sainz (Ferrari) - total race time:  2.577343583
+
+Lewis Hamilton completed lap  3:  1.169875979
+Esteban Ocon completed lap  3:  1.257828951
+Lando Norris completed lap  3:  1.180099249
+Max Verstappen completed lap  3:  1.260201335
+Sergio Perez completed lap  3:  1.240971088
+Oscar Piastri completed lap  3:  1.248825312
+Kevin Magnussen completed lap  3:  1.181423545
+Zhou Guanyu completed lap  3:  1.159366488
+Charles Leclerc completed lap  3:  1.284986615
+Liam Lawson completed lap  3:  1.185885668
+Yuki Tsunoda completed lap  3:  1.249235511
+Fernando Alonso completed lap  3:  1.263151050
+Franco Collapinto completed lap  3:  1.256037116
+Lance Stroll completed lap  3:  1.290707827
+George Russel completed lap  3:  1.261183977
+Pierre Gasly completed lap  3:  1.293509483
+Alexander Albon completed lap  3:  1.237964749
+Valtteri Bottas completed lap  3:  1.240543962
+Nico Hulkenberg completed lap  3:  1.264366984
+Carlos Sainz completed lap  3:  1.264566183
+Lewis Hamilton (Mercedes) - total race time:  3.508601665
+Esteban Ocon (Alpine) - total race time:  3.554426432
+Lando Norris (McLaren) - total race time:  3.566421986
+Max Verstappen (Red Bull Racing) - total race time:  3.574708581
+Sergio Perez (Red Bull Racing) - total race time:  3.598931789
+Oscar Piastri (McLaren) - total race time:  3.628430367
+Kevin Magnussen (Haas) - total race time:  3.630515933
+Zhou Guanyu (Kick Sauber) - total race time:  3.643279909
+Liam Lawson (RB) - total race time:  3.649478913
+Fernando Alonso (Aston Martin) - total race time:  3.656995416
+Charles Leclerc (Ferrari) - total race time:  3.661463261
+Lance Stroll (Aston Martin) - total race time:  3.661473989
+George Russel (Mercedes) - total race time:  3.680104375
+Franco Collapinto (Williams) - total race time:  3.680588245
+Yuki Tsunoda (RB) - total race time:  3.680912257
+Pierre Gasly (Alpine) - total race time:  3.711094737
+Alexander Albon (Williams) - total race time:  3.743926048
+Valtteri Bottas (Kick Sauber) - total race time:  3.747119428
+Nico Hulkenberg (Haas) - total race time:  3.749752998
+Carlos Sainz (Ferrari) - total race time:  3.841909766
+
+Lando Norris completed lap  4:  1.160431862
+Max Verstappen completed lap  4:  1.201178312
+Zhou Guanyu completed lap  4:  1.161692858
+Lewis Hamilton completed lap  4:  1.288653493
+Esteban Ocon completed lap  4:  1.244696617
+Kevin Magnussen completed lap  4:  1.169497490
+Sergio Perez completed lap  4:  1.207988858
+Oscar Piastri completed lap  4:  1.203538895
+Lance Stroll completed lap  4:  1.162085414
+Franco Collapinto completed lap  4:  1.168478966
+Charles Leclerc completed lap  4:  1.195280910
+Fernando Alonso completed lap  4:  1.196585417
+Pierre Gasly completed lap  4:  1.157032609
+Valtteri Bottas completed lap  4:  1.167314529
+George Russel completed lap  4:  1.220524788
+Liam Lawson completed lap  4:  1.280264258
+Yuki Tsunoda completed lap  4:  1.273161769
+Carlos Sainz completed lap  4:  1.160059571
+Alexander Albon completed lap  4:  1.295286775
+Nico Hulkenberg completed lap  4:  1.284906149
+Lando Norris (McLaren) - total race time:  4.726853848
+Max Verstappen (Red Bull Racing) - total race time:  4.775886893
+Lewis Hamilton (Mercedes) - total race time:  4.797255158
+Esteban Ocon (Alpine) - total race time:  4.799123049
+Kevin Magnussen (Haas) - total race time:  4.800013423
+Zhou Guanyu (Kick Sauber) - total race time:  4.804972767
+Sergio Perez (Red Bull Racing) - total race time:  4.806920647
+Lance Stroll (Aston Martin) - total race time:  4.823559403
+Oscar Piastri (McLaren) - total race time:  4.831969262
+Franco Collapinto (Williams) - total race time:  4.849067211
+Fernando Alonso (Aston Martin) - total race time:  4.853580833
+Charles Leclerc (Ferrari) - total race time:  4.856744171
+Pierre Gasly (Alpine) - total race time:  4.868127346
+George Russel (Mercedes) - total race time:  4.900629163
+Valtteri Bottas (Kick Sauber) - total race time:  4.914433957
+Liam Lawson (RB) - total race time:  4.929743171
+Yuki Tsunoda (RB) - total race time:  4.954074026
+Carlos Sainz (Ferrari) - total race time:  5.001969337
+Nico Hulkenberg (Haas) - total race time:  5.034659147
+Alexander Albon (Williams) - total race time:  5.039212823
+
+Lando Norris completed lap  5:  1.150580406
+Kevin Magnussen completed lap  5:  1.149536610
+Zhou Guanyu completed lap  5:  1.204262018
+Oscar Piastri completed lap  5:  1.178820372
+Sergio Perez completed lap  5:  1.205607653
+Pierre Gasly completed lap  5:  1.151485920
+Esteban Ocon completed lap  5:  1.258251309
+Lance Stroll completed lap  5:  1.231098890
+Valtteri Bottas completed lap  5:  1.153354526
+Max Verstappen completed lap  5:  1.294919491
+Lewis Hamilton completed lap  5:  1.285946488
+Franco Collapinto completed lap  5:  1.261502504
+Charles Leclerc completed lap  5:  1.250013828
+Fernando Alonso completed lap  5:  1.253381491
+Liam Lawson completed lap  5:  1.154078722
+Yuki Tsunoda completed lap  5:  1.214154482
+George Russel completed lap  5:  1.203907251
+Carlos Sainz completed lap  5:  1.273712635
+Alexander Albon completed lap  5:  1.254256725
+Nico Hulkenberg completed lap  5:  1.295554638
+Lando Norris (McLaren) - total race time:  5.877434254
+Kevin Magnussen (Haas) - total race time:  5.949550033
+Zhou Guanyu (Kick Sauber) - total race time:  6.009234785
+Oscar Piastri (McLaren) - total race time:  6.010789634
+Sergio Perez (Red Bull Racing) - total race time:  6.012528300
+Pierre Gasly (Alpine) - total race time:  6.019613266
+Lance Stroll (Aston Martin) - total race time:  6.054658293
+Esteban Ocon (Alpine) - total race time:  6.057374358
+Valtteri Bottas (Kick Sauber) - total race time:  6.067788483
+Max Verstappen (Red Bull Racing) - total race time:  6.070806384
+Lewis Hamilton (Mercedes) - total race time:  6.083201646
+Liam Lawson (RB) - total race time:  6.083821893
+George Russel (Mercedes) - total race time:  6.104536414
+Charles Leclerc (Ferrari) - total race time:  6.106757999
+Fernando Alonso (Aston Martin) - total race time:  6.106962324
+Franco Collapinto (Williams) - total race time:  6.110569715
+Yuki Tsunoda (RB) - total race time:  6.168228508
+Carlos Sainz (Ferrari) - total race time:  6.275681972
+Alexander Albon (Williams) - total race time:  6.293469548
+Nico Hulkenberg (Haas) - total race time:  6.330213785
+
+Zhou Guanyu completed lap  6:  1.149732113
+Oscar Piastri completed lap  6:  1.169679523
+Kevin Magnussen completed lap  6:  1.235381603
+Lando Norris completed lap  6:  1.293742061
+Lance Stroll completed lap  6:  1.147737980
+Esteban Ocon completed lap  6:  1.140051961
+Franco Collapinto completed lap  6:  1.140075922
+Max Verstappen completed lap  6:  1.180649161
+Pierre Gasly completed lap  6:  1.277980804
+Valtteri Bottas completed lap  6:  1.235829949
+Sergio Perez completed lap  6:  1.285752773
+Liam Lawson completed lap  6:  1.171702743
+Yuki Tsunoda completed lap  6:  1.186440349
+Lewis Hamilton completed lap  6:  1.283731699
+Fernando Alonso completed lap  6:  1.272030234
+Charles Leclerc completed lap  6:  1.280810952
+Alexander Albon completed lap  6:  1.143995643
+George Russel completed lap  6:  1.276604891
+Carlos Sainz completed lap  6:  1.181546569
+Nico Hulkenberg completed lap  6:  1.260789752
+Zhou Guanyu (Kick Sauber) - total race time:  7.158966898
+Lando Norris (McLaren) - total race time:  7.171176315
+Oscar Piastri (McLaren) - total race time:  7.180469157
+Kevin Magnussen (Haas) - total race time:  7.184931636
+Esteban Ocon (Alpine) - total race time:  7.197426319
+Lance Stroll (Aston Martin) - total race time:  7.202396273
+Franco Collapinto (Williams) - total race time:  7.250645637
+Max Verstappen (Red Bull Racing) - total race time:  7.251455545
+Liam Lawson (RB) - total race time:  7.255524636
+Pierre Gasly (Alpine) - total race time:  7.297594070
+Sergio Perez (Red Bull Racing) - total race time:  7.298281073
+Valtteri Bottas (Kick Sauber) - total race time:  7.303618432
+Yuki Tsunoda (RB) - total race time:  7.354668857
+Lewis Hamilton (Mercedes) - total race time:  7.366933345
+Fernando Alonso (Aston Martin) - total race time:  7.378992558
+George Russel (Mercedes) - total race time:  7.381141305
+Charles Leclerc (Ferrari) - total race time:  7.387568951
+Alexander Albon (Williams) - total race time:  7.437465191
+Carlos Sainz (Ferrari) - total race time:  7.457228541
+Nico Hulkenberg (Haas) - total race time:  7.591003537
+
+Kevin Magnussen completed lap  7:  1.154770374
+Esteban Ocon completed lap  7:  1.144102693
+Lando Norris completed lap  7:  1.266897917
+Zhou Guanyu completed lap  7:  1.283710122
+Oscar Piastri completed lap  7:  1.280878425
+Liam Lawson completed lap  7:  1.157709956
+Franco Collapinto completed lap  7:  1.242062330
+Lance Stroll completed lap  7:  1.284788132
+Max Verstappen completed lap  7:  1.241839051
+Sergio Perez completed lap  7:  1.196445584
+Fernando Alonso completed lap  7:  1.146747589
+Pierre Gasly completed lap  7:  1.260549664
+Lewis Hamilton completed lap  7:  1.203193069
+Valtteri Bottas completed lap  7:  1.273055911
+Charles Leclerc completed lap  7:  1.219644904
+Yuki Tsunoda completed lap  7:  1.265822291
+George Russel completed lap  7:  1.205550313
+Alexander Albon completed lap  7:  1.230422258
+Carlos Sainz completed lap  7:  1.295923233
+Nico Hulkenberg completed lap  7:  1.182734966
+Kevin Magnussen (Haas) - total race time:  8.339702010
+Esteban Ocon (Alpine) - total race time:  8.341529012
+Liam Lawson (RB) - total race time:  8.413234592
+Lando Norris (McLaren) - total race time:  8.438074232
+Zhou Guanyu (Kick Sauber) - total race time:  8.442677020
+Oscar Piastri (McLaren) - total race time:  8.461347582
+Lance Stroll (Aston Martin) - total race time:  8.487184405
+Franco Collapinto (Williams) - total race time:  8.492707967
+Max Verstappen (Red Bull Racing) - total race time:  8.493294596
+Sergio Perez (Red Bull Racing) - total race time:  8.494726657
+Fernando Alonso (Aston Martin) - total race time:  8.525740147
+Pierre Gasly (Alpine) - total race time:  8.558143734
+Lewis Hamilton (Mercedes) - total race time:  8.570126414
+Valtteri Bottas (Kick Sauber) - total race time:  8.576674343
+George Russel (Mercedes) - total race time:  8.586691618
+Charles Leclerc (Ferrari) - total race time:  8.607213855
+Yuki Tsunoda (RB) - total race time:  8.620491148
+Alexander Albon (Williams) - total race time:  8.667887449
+Carlos Sainz (Ferrari) - total race time:  8.753151774
+Nico Hulkenberg (Haas) - total race time:  8.773738503
+
+Kevin Magnussen completed lap  8:  1.270638466
+Esteban Ocon completed lap  8:  1.290586233
+Oscar Piastri completed lap  8:  1.191500664
+Fernando Alonso completed lap  8:  1.166617274
+Zhou Guanyu completed lap  8:  1.256864786
+Lando Norris completed lap  8:  1.274455905
+Max Verstappen completed lap  8:  1.241442919
+Franco Collapinto completed lap  8:  1.257272482
+Liam Lawson completed lap  8:  1.275259972
+Lance Stroll completed lap  8:  1.286326170
+Sergio Perez completed lap  8:  1.271615744
+Pierre Gasly completed lap  8:  1.258719325
+Valtteri Bottas completed lap  8:  1.221718788
+Charles Leclerc completed lap  8:  1.212428808
+Lewis Hamilton completed lap  8:  1.255089641
+George Russel completed lap  8:  1.208414197
+Yuki Tsunoda completed lap  8:  1.254114628
+Alexander Albon completed lap  8:  1.231019974
+Carlos Sainz completed lap  8:  1.219826818
+Nico Hulkenberg completed lap  8:  1.252463698
+Kevin Magnussen (Haas) - total race time:  9.610340476
+Esteban Ocon (Alpine) - total race time:  9.632115245
+Oscar Piastri (McLaren) - total race time:  9.652848246
+Liam Lawson (RB) - total race time:  9.688494564
+Fernando Alonso (Aston Martin) - total race time:  9.692357421
+Zhou Guanyu (Kick Sauber) - total race time:  9.699541806
+Lando Norris (McLaren) - total race time:  9.712530137
+Max Verstappen (Red Bull Racing) - total race time:  9.734737515
+Franco Collapinto (Williams) - total race time:  9.749980449
+Sergio Perez (Red Bull Racing) - total race time:  9.766342401
+Lance Stroll (Aston Martin) - total race time:  9.773510575
+George Russel (Mercedes) - total race time:  9.795105815
+Valtteri Bottas (Kick Sauber) - total race time:  9.798393131
+Pierre Gasly (Alpine) - total race time:  9.816863059
+Charles Leclerc (Ferrari) - total race time:  9.819642663
+Lewis Hamilton (Mercedes) - total race time:  9.825216055
+Yuki Tsunoda (RB) - total race time:  9.874605776
+Alexander Albon (Williams) - total race time:  9.898907423
+Carlos Sainz (Ferrari) - total race time:  9.972978592
+Nico Hulkenberg (Haas) - total race time:  10.026202201
+
+Esteban Ocon completed lap  9:  1.172815084
+Kevin Magnussen completed lap  9:  1.236216545
+Oscar Piastri completed lap  9:  1.194420815
+Zhou Guanyu completed lap  9:  1.180854082
+Fernando Alonso completed lap  9:  1.204022765
+Lando Norris completed lap  9:  1.175984621
+Max Verstappen completed lap  9:  1.198491812
+Lance Stroll completed lap  9:  1.181095839
+Sergio Perez completed lap  9:  1.191002727
+Valtteri Bottas completed lap  9:  1.160713553
+Liam Lawson completed lap  9:  1.224899888
+Franco Collapinto completed lap  9:  1.256182909
+George Russel completed lap  9:  1.144445419
+Lewis Hamilton completed lap  9:  1.181017280
+Pierre Gasly completed lap  9:  1.199414730
+Yuki Tsunoda completed lap  9:  1.159480453
+Charles Leclerc completed lap  9:  1.223178029
+Alexander Albon completed lap  9:  1.163203955
+Carlos Sainz completed lap  9:  1.221029639
+Nico Hulkenberg completed lap  9:  1.296286941
+Esteban Ocon (Alpine) - total race time:  10.804930329
+Kevin Magnussen (Haas) - total race time:  10.846557021
+Oscar Piastri (McLaren) - total race time:  10.847269061
+Zhou Guanyu (Kick Sauber) - total race time:  10.880395888
+Lando Norris (McLaren) - total race time:  10.888514758
+Fernando Alonso (Aston Martin) - total race time:  10.896380186
+Liam Lawson (RB) - total race time:  10.913394452
+Max Verstappen (Red Bull Racing) - total race time:  10.933229327
+George Russel (Mercedes) - total race time:  10.939551234
+Lance Stroll (Aston Martin) - total race time:  10.954606414
+Sergio Perez (Red Bull Racing) - total race time:  10.957345128
+Valtteri Bottas (Kick Sauber) - total race time:  10.959106684
+Franco Collapinto (Williams) - total race time:  11.006163358
+Lewis Hamilton (Mercedes) - total race time:  11.006233335
+Pierre Gasly (Alpine) - total race time:  11.016277789
+Yuki Tsunoda (RB) - total race time:  11.034086229
+Charles Leclerc (Ferrari) - total race time:  11.042820692
+Alexander Albon (Williams) - total race time:  11.062111378
+Carlos Sainz (Ferrari) - total race time:  11.194008231
+Nico Hulkenberg (Haas) - total race time:  11.322489142
+
+Oscar Piastri completed lap  10:  1.146565199
+Esteban Ocon completed lap  10:  1.210727096
+Kevin Magnussen completed lap  10:  1.190505981
+Zhou Guanyu completed lap  10:  1.184313536
+Lando Norris completed lap  10:  1.222771287
+Max Verstappen completed lap  10:  1.177788258
+Fernando Alonso completed lap  10:  1.248966098
+Liam Lawson completed lap  10:  1.162869573
+Valtteri Bottas completed lap  10:  1.206669569
+Charles Leclerc completed lap  10:  1.158428431
+Lance Stroll completed lap  10:  1.264479995
+Lewis Hamilton completed lap  10:  1.218260884
+Yuki Tsunoda completed lap  10:  1.192152500
+Sergio Perez completed lap  10:  1.253600717
+Pierre Gasly completed lap  10:  1.202349305
+Franco Collapinto completed lap  10:  1.285735250
+George Russel completed lap  10:  1.284059763
+Alexander Albon completed lap  10:  1.226196289
+Carlos Sainz completed lap  10:  1.289123297
+Nico Hulkenberg completed lap  10:  1.252983809
+Oscar Piastri (McLaren) - total race time:  11.993834260
+Esteban Ocon (Alpine) - total race time:  12.015657425
+Kevin Magnussen (Haas) - total race time:  12.037063002
+Zhou Guanyu (Kick Sauber) - total race time:  12.064709424
+Liam Lawson (RB) - total race time:  12.076264025
+Max Verstappen (Red Bull Racing) - total race time:  12.111017585
+Lando Norris (McLaren) - total race time:  12.111286045
+Fernando Alonso (Aston Martin) - total race time:  12.145346284
+Valtteri Bottas (Kick Sauber) - total race time:  12.165776253
+Charles Leclerc (Ferrari) - total race time:  12.201249123
+Sergio Perez (Red Bull Racing) - total race time:  12.210945845
+Pierre Gasly (Alpine) - total race time:  12.218627094
+Lance Stroll (Aston Martin) - total race time:  12.219086409
+George Russel (Mercedes) - total race time:  12.223610997
+Lewis Hamilton (Mercedes) - total race time:  12.224494219
+Yuki Tsunoda (RB) - total race time:  12.226238729
+Alexander Albon (Williams) - total race time:  12.288307667
+Franco Collapinto (Williams) - total race time:  12.291898608
+Carlos Sainz (Ferrari) - total race time:  12.483131528
+Nico Hulkenberg (Haas) - total race time:  12.575472951
+
+Oscar Piastri completed lap  11:  1.194573164
+Esteban Ocon completed lap  11:  1.188657761
+Zhou Guanyu completed lap  11:  1.237289906
+Kevin Magnussen completed lap  11:  1.266947746
+Liam Lawson completed lap  11:  1.164755583
+Lando Norris completed lap  11:  1.229800701
+Fernando Alonso completed lap  11:  1.214466691
+Charles Leclerc completed lap  11:  1.161174655
+Lewis Hamilton completed lap  11:  1.149072528
+Lance Stroll completed lap  11:  1.169186354
+Max Verstappen completed lap  11:  1.289379239
+Franco Collapinto completed lap  11:  1.151446939
+Alexander Albon completed lap  11:  1.158260703
+Valtteri Bottas completed lap  11:  1.286484957
+Sergio Perez completed lap  11:  1.258601785
+Yuki Tsunoda completed lap  11:  1.296709061
+Pierre Gasly completed lap  11:  1.292347074
+George Russel completed lap  11:  1.253581643
+Carlos Sainz completed lap  11:  1.157061338
+Nico Hulkenberg completed lap  11:  1.266284943
+Oscar Piastri (McLaren) - total race time:  13.188407424
+Esteban Ocon (Alpine) - total race time:  13.204315186
+Liam Lawson (RB) - total race time:  13.241019608
+Zhou Guanyu (Kick Sauber) - total race time:  13.301999330
+Kevin Magnussen (Haas) - total race time:  13.304010748
+Lando Norris (McLaren) - total race time:  13.341086746
+Fernando Alonso (Aston Martin) - total race time:  13.359812975
+Charles Leclerc (Ferrari) - total race time:  13.362423778
+Lewis Hamilton (Mercedes) - total race time:  13.373566747
+Lance Stroll (Aston Martin) - total race time:  13.388272763
+Max Verstappen (Red Bull Racing) - total race time:  13.400396824
+Franco Collapinto (Williams) - total race time:  13.443345547
+Alexander Albon (Williams) - total race time:  13.446568370
+Valtteri Bottas (Kick Sauber) - total race time:  13.452261210
+Sergio Perez (Red Bull Racing) - total race time:  13.469547630
+George Russel (Mercedes) - total race time:  13.477192640
+Pierre Gasly (Alpine) - total race time:  13.510974168
+Yuki Tsunoda (RB) - total race time:  13.522947790
+Carlos Sainz (Ferrari) - total race time:  13.640192866
+Nico Hulkenberg (Haas) - total race time:  13.841757894
+
+Liam Lawson completed lap  12:  1.160941482
+Oscar Piastri completed lap  12:  1.298877835
+Esteban Ocon completed lap  12:  1.297552347
+Lance Stroll completed lap  12:  1.169217467
+Fernando Alonso completed lap  12:  1.232114673
+Max Verstappen completed lap  12:  1.157219172
+Kevin Magnussen completed lap  12:  1.292644382
+Zhou Guanyu completed lap  12:  1.292522311
+Lando Norris completed lap  12:  1.242375255
+Charles Leclerc completed lap  12:  1.242285252
+Lewis Hamilton completed lap  12:  1.234627128
+Sergio Perez completed lap  12:  1.149659157
+Franco Collapinto completed lap  12:  1.193703771
+Yuki Tsunoda completed lap  12:  1.144089103
+Valtteri Bottas completed lap  12:  1.179945350
+Alexander Albon completed lap  12:  1.230558157
+Pierre Gasly completed lap  12:  1.175811529
+George Russel completed lap  12:  1.266737700
+Carlos Sainz completed lap  12:  1.196300745
+Nico Hulkenberg completed lap  12:  1.285618663
+Liam Lawson (RB) - total race time:  14.401961090
+Oscar Piastri (McLaren) - total race time:  14.487285259
+Esteban Ocon (Alpine) - total race time:  14.501867533
+Lance Stroll (Aston Martin) - total race time:  14.557490230
+Max Verstappen (Red Bull Racing) - total race time:  14.557615996
+Lando Norris (McLaren) - total race time:  14.583462001
+Fernando Alonso (Aston Martin) - total race time:  14.591927648
+Zhou Guanyu (Kick Sauber) - total race time:  14.594521641
+Kevin Magnussen (Haas) - total race time:  14.596655130
+Charles Leclerc (Ferrari) - total race time:  14.604709030
+Lewis Hamilton (Mercedes) - total race time:  14.608193875
+Sergio Perez (Red Bull Racing) - total race time:  14.619206787
+Valtteri Bottas (Kick Sauber) - total race time:  14.632206560
+Franco Collapinto (Williams) - total race time:  14.637049318
+Yuki Tsunoda (RB) - total race time:  14.667036893
+Alexander Albon (Williams) - total race time:  14.677126527
+Pierre Gasly (Alpine) - total race time:  14.686785697
+George Russel (Mercedes) - total race time:  14.743930340
+Carlos Sainz (Ferrari) - total race time:  14.836493611
+Nico Hulkenberg (Haas) - total race time:  15.127376557
+
+Esteban Ocon completed lap  13:  1.148666024
+Liam Lawson completed lap  13:  1.168486834
+Oscar Piastri completed lap  13:  1.203561783
+Charles Leclerc completed lap  13:  1.150029898
+Zhou Guanyu completed lap  13:  1.167744875
+Lance Stroll completed lap  13:  1.220103502
+Lewis Hamilton completed lap  13:  1.167586923
+Kevin Magnussen completed lap  13:  1.237784624
+Sergio Perez completed lap  13:  1.224620819
+Fernando Alonso completed lap  13:  1.275496125
+Lando Norris completed lap  13:  1.287407875
+Franco Collapinto completed lap  13:  1.244950414
+Max Verstappen completed lap  13:  1.299326539
+Valtteri Bottas completed lap  13:  1.264595509
+Yuki Tsunoda completed lap  13:  1.274832487
+Pierre Gasly completed lap  13:  1.249650598
+Alexander Albon completed lap  13:  1.256182909
+George Russel completed lap  13:  1.166229963
+Carlos Sainz completed lap  13:  1.282140374
+Nico Hulkenberg completed lap  13:  1.269431829
+Liam Lawson (RB) - total race time:  15.570447924
+Esteban Ocon (Alpine) - total race time:  15.650533557
+Oscar Piastri (McLaren) - total race time:  15.690847042
+Charles Leclerc (Ferrari) - total race time:  15.754738928
+Zhou Guanyu (Kick Sauber) - total race time:  15.762266516
+Lewis Hamilton (Mercedes) - total race time:  15.775780798
+Lance Stroll (Aston Martin) - total race time:  15.777593732
+Kevin Magnussen (Haas) - total race time:  15.834439754
+Sergio Perez (Red Bull Racing) - total race time:  15.843827606
+Max Verstappen (Red Bull Racing) - total race time:  15.856942535
+Fernando Alonso (Aston Martin) - total race time:  15.867423773
+Lando Norris (McLaren) - total race time:  15.870869876
+Franco Collapinto (Williams) - total race time:  15.881999732
+Valtteri Bottas (Kick Sauber) - total race time:  15.896802069
+George Russel (Mercedes) - total race time:  15.910160303
+Alexander Albon (Williams) - total race time:  15.933309436
+Pierre Gasly (Alpine) - total race time:  15.936436295
+Yuki Tsunoda (RB) - total race time:  15.941869380
+Carlos Sainz (Ferrari) - total race time:  16.118633985
+Nico Hulkenberg (Haas) - total race time:  16.396808386
+
+Esteban Ocon completed lap  14:  1.199170709
+Liam Lawson completed lap  14:  1.203152418
+Oscar Piastri completed lap  14:  1.216548204
+Lance Stroll completed lap  14:  1.170257926
+Lewis Hamilton completed lap  14:  1.178065419
+Kevin Magnussen completed lap  14:  1.143511653
+Charles Leclerc completed lap  14:  1.216565967
+Fernando Alonso completed lap  14:  1.149121165
+Zhou Guanyu completed lap  14:  1.261031508
+Lando Norris completed lap  14:  1.184193730
+Franco Collapinto completed lap  14:  1.214842439
+Sergio Perez completed lap  14:  1.278132081
+Yuki Tsunoda completed lap  14:  1.197754741
+Max Verstappen completed lap  14:  1.249697447
+Alexander Albon completed lap  14:  1.201806307
+Pierre Gasly completed lap  14:  1.215206265
+George Russel completed lap  14:  1.169476390
+Valtteri Bottas completed lap  14:  1.270091772
+Carlos Sainz completed lap  14:  1.254604816
+Nico Hulkenberg completed lap  14:  1.261544347
+Liam Lawson (RB) - total race time:  16.773600342
+Esteban Ocon (Alpine) - total race time:  16.849704266
+Oscar Piastri (McLaren) - total race time:  16.907395246
+Lance Stroll (Aston Martin) - total race time:  16.947851658
+Lewis Hamilton (Mercedes) - total race time:  16.953846217
+Charles Leclerc (Ferrari) - total race time:  16.971304895
+Kevin Magnussen (Haas) - total race time:  16.977951407
+Fernando Alonso (Aston Martin) - total race time:  17.016544938
+Zhou Guanyu (Kick Sauber) - total race time:  17.023298024
+Lando Norris (McLaren) - total race time:  17.055063606
+George Russel (Mercedes) - total race time:  17.079636693
+Franco Collapinto (Williams) - total race time:  17.096842171
+Max Verstappen (Red Bull Racing) - total race time:  17.106639982
+Sergio Perez (Red Bull Racing) - total race time:  17.121959687
+Alexander Albon (Williams) - total race time:  17.135115743
+Yuki Tsunoda (RB) - total race time:  17.139624121
+Pierre Gasly (Alpine) - total race time:  17.151642560
+Valtteri Bottas (Kick Sauber) - total race time:  17.166893841
+Carlos Sainz (Ferrari) - total race time:  17.373238801
+Nico Hulkenberg (Haas) - total race time:  17.658352733
+
+Liam Lawson completed lap  15:  1.164861917
+Oscar Piastri completed lap  15:  1.224840283
+Esteban Ocon completed lap  15:  1.261946082
+Lance Stroll completed lap  15:  1.212781549
+Fernando Alonso completed lap  15:  1.143037796
+Lewis Hamilton completed lap  15:  1.228406549
+Charles Leclerc completed lap  15:  1.227159023
+Lando Norris completed lap  15:  1.184105277
+Kevin Magnussen completed lap  15:  1.254614830
+Franco Collapinto completed lap  15:  1.198579788
+Zhou Guanyu completed lap  15:  1.254494667
+Max Verstappen completed lap  15:  1.213229656
+Alexander Albon completed lap  15:  1.196821332
+Sergio Perez completed lap  15:  1.243707538
+Yuki Tsunoda completed lap  15:  1.255741000
+Pierre Gasly completed lap  15:  1.290926099
+George Russel completed lap  15:  1.296079516
+Valtteri Bottas completed lap  15:  1.289381862
+Carlos Sainz completed lap  15:  1.213905096
+Nico Hulkenberg completed lap  15:  1.155467749
+Liam Lawson (RB) - total race time:  17.938462259
+Esteban Ocon (Alpine) - total race time:  18.111650348
+Oscar Piastri (McLaren) - total race time:  18.132235529
+Fernando Alonso (Aston Martin) - total race time:  18.159582734
+Lance Stroll (Aston Martin) - total race time:  18.160633207
+Lewis Hamilton (Mercedes) - total race time:  18.182252766
+Charles Leclerc (Ferrari) - total race time:  18.198463918
+Kevin Magnussen (Haas) - total race time:  18.232566237
+Lando Norris (McLaren) - total race time:  18.239168883
+Zhou Guanyu (Kick Sauber) - total race time:  18.277792691
+Franco Collapinto (Williams) - total race time:  18.295421959
+Max Verstappen (Red Bull Racing) - total race time:  18.319869638
+Alexander Albon (Williams) - total race time:  18.331937075
+Sergio Perez (Red Bull Racing) - total race time:  18.365667225
+George Russel (Mercedes) - total race time:  18.375716209
+Yuki Tsunoda (RB) - total race time:  18.395365121
+Pierre Gasly (Alpine) - total race time:  18.442568659
+Valtteri Bottas (Kick Sauber) - total race time:  18.456275703
+Carlos Sainz (Ferrari) - total race time:  18.587143897
+Nico Hulkenberg (Haas) - total race time:  18.813820482
+
+Liam Lawson completed lap  16:  1.160917997
+Oscar Piastri completed lap  16:  1.171109200
+Lance Stroll completed lap  16:  1.186638474
+Fernando Alonso completed lap  16:  1.192507982
+Esteban Ocon completed lap  16:  1.258286834
+Charles Leclerc completed lap  16:  1.165794015
+Lando Norris completed lap  16:  1.188402057
+Lewis Hamilton completed lap  16:  1.253095150
+Franco Collapinto completed lap  16:  1.157447219
+Max Verstappen completed lap  16:  1.146625996
+Kevin Magnussen completed lap  16:  1.231819749
+Alexander Albon completed lap  16:  1.153079271
+Sergio Perez completed lap  16:  1.157555223
+Yuki Tsunoda completed lap  16:  1.155739069
+Zhou Guanyu completed lap  16:  1.280632973
+Pierre Gasly completed lap  16:  1.175210118
+Valtteri Bottas completed lap  16:  1.213674307
+George Russel completed lap  16:  1.267763734
+Carlos Sainz completed lap  16:  1.193656087
+Nico Hulkenberg completed lap  16:  1.261949658
+Liam Lawson (RB) - total race time:  19.099380256
+Oscar Piastri (McLaren) - total race time:  19.303344729
+Lance Stroll (Aston Martin) - total race time:  19.347271681
+Fernando Alonso (Aston Martin) - total race time:  19.352090716
+Charles Leclerc (Ferrari) - total race time:  19.364257933
+Esteban Ocon (Alpine) - total race time:  19.369937182
+Lando Norris (McLaren) - total race time:  19.427570940
+Lewis Hamilton (Mercedes) - total race time:  19.435347916
+Franco Collapinto (Williams) - total race time:  19.452869178
+Kevin Magnussen (Haas) - total race time:  19.464385986
+Max Verstappen (Red Bull Racing) - total race time:  19.466495634
+Alexander Albon (Williams) - total race time:  19.485016346
+Sergio Perez (Red Bull Racing) - total race time:  19.523222448
+Yuki Tsunoda (RB) - total race time:  19.551104190
+Zhou Guanyu (Kick Sauber) - total race time:  19.558425664
+Pierre Gasly (Alpine) - total race time:  19.617778777
+George Russel (Mercedes) - total race time:  19.643479943
+Valtteri Bottas (Kick Sauber) - total race time:  19.669950010
+Carlos Sainz (Ferrari) - total race time:  19.780799984
+Nico Hulkenberg (Haas) - total race time:  20.075770140
+
+Liam Lawson completed lap  17:  1.195663810
+Fernando Alonso completed lap  17:  1.148008347
+Oscar Piastri completed lap  17:  1.207418561
+Lance Stroll completed lap  17:  1.196971893
+Charles Leclerc completed lap  17:  1.182108760
+Lando Norris completed lap  17:  1.148603916
+Max Verstappen completed lap  17:  1.149211407
+Esteban Ocon completed lap  17:  1.257570863
+Alexander Albon completed lap  17:  1.189168334
+Franco Collapinto completed lap  17:  1.248064756
+Kevin Magnussen completed lap  17:  1.216465354
+Lewis Hamilton completed lap  17:  1.273954630
+Pierre Gasly completed lap  17:  1.157541156
+Yuki Tsunoda completed lap  17:  1.221606731
+Sergio Perez completed lap  17:  1.270877004
+Zhou Guanyu completed lap  17:  1.265575409
+Valtteri Bottas completed lap  17:  1.194044471
+Carlos Sainz completed lap  17:  1.199505448
+George Russel completed lap  17:  1.294631362
+Nico Hulkenberg completed lap  17:  1.183517456
+Liam Lawson (RB) - total race time:  20.295044066
+Fernando Alonso (Aston Martin) - total race time:  20.500099063
+Oscar Piastri (McLaren) - total race time:  20.510763290
+Lance Stroll (Aston Martin) - total race time:  20.544243574
+Charles Leclerc (Ferrari) - total race time:  20.546366693
+Lando Norris (McLaren) - total race time:  20.576174856
+Max Verstappen (Red Bull Racing) - total race time:  20.615707041
+Esteban Ocon (Alpine) - total race time:  20.627508045
+Alexander Albon (Williams) - total race time:  20.674184680
+Kevin Magnussen (Haas) - total race time:  20.680851340
+Franco Collapinto (Williams) - total race time:  20.700933934
+Lewis Hamilton (Mercedes) - total race time:  20.709302546
+Yuki Tsunoda (RB) - total race time:  20.772710921
+Pierre Gasly (Alpine) - total race time:  20.775319933
+Sergio Perez (Red Bull Racing) - total race time:  20.794099452
+Zhou Guanyu (Kick Sauber) - total race time:  20.824001073
+Valtteri Bottas (Kick Sauber) - total race time:  20.863994481
+George Russel (Mercedes) - total race time:  20.938111305
+Carlos Sainz (Ferrari) - total race time:  20.980305432
+Nico Hulkenberg (Haas) - total race time:  21.259287596
+
+Liam Lawson completed lap  18:  1.169457674
+Oscar Piastri completed lap  18:  1.142938495
+Fernando Alonso completed lap  18:  1.212739706
+Lando Norris completed lap  18:  1.172335744
+Max Verstappen completed lap  18:  1.169336796
+Lance Stroll completed lap  18:  1.264330387
+Alexander Albon completed lap  18:  1.144783735
+Franco Collapinto completed lap  18:  1.159142375
+Kevin Magnussen completed lap  18:  1.160059929
+Charles Leclerc completed lap  18:  1.290688276
+Esteban Ocon completed lap  18:  1.235898018
+Lewis Hamilton completed lap  18:  1.225307465
+Zhou Guanyu completed lap  18:  1.156873465
+Sergio Perez completed lap  18:  1.200492501
+Yuki Tsunoda completed lap  18:  1.253338814
+Pierre Gasly completed lap  18:  1.249520183
+Valtteri Bottas completed lap  18:  1.289927244
+Carlos Sainz completed lap  18:  1.250393152
+George Russel completed lap  18:  1.290919662
+Nico Hulkenberg completed lap  18:  1.196516991
+Liam Lawson (RB) - total race time:  21.464501740
+Oscar Piastri (McLaren) - total race time:  21.653701785
+Fernando Alonso (Aston Martin) - total race time:  21.712838769
+Lando Norris (McLaren) - total race time:  21.748510600
+Max Verstappen (Red Bull Racing) - total race time:  21.785043837
+Lance Stroll (Aston Martin) - total race time:  21.808573961
+Alexander Albon (Williams) - total race time:  21.818968415
+Charles Leclerc (Ferrari) - total race time:  21.837054969
+Kevin Magnussen (Haas) - total race time:  21.840911269
+Franco Collapinto (Williams) - total race time:  21.860076309
+Esteban Ocon (Alpine) - total race time:  21.863406063
+Lewis Hamilton (Mercedes) - total race time:  21.934610011
+Zhou Guanyu (Kick Sauber) - total race time:  21.980874538
+Sergio Perez (Red Bull Racing) - total race time:  21.994591953
+Pierre Gasly (Alpine) - total race time:  22.024840116
+Yuki Tsunoda (RB) - total race time:  22.026049735
+Valtteri Bottas (Kick Sauber) - total race time:  22.153921725
+George Russel (Mercedes) - total race time:  22.229030967
+Carlos Sainz (Ferrari) - total race time:  22.230698584
+Nico Hulkenberg (Haas) - total race time:  22.455804587
+
+Liam Lawson completed lap  19:  1.295143366
+Fernando Alonso completed lap  19:  1.154696345
+Oscar Piastri completed lap  19:  1.273963094
+Lance Stroll completed lap  19:  1.184834003
+Franco Collapinto completed lap  19:  1.150402427
+Lando Norris completed lap  19:  1.279344320
+Max Verstappen completed lap  19:  1.246230721
+Esteban Ocon completed lap  19:  1.177205920
+Charles Leclerc completed lap  19:  1.196479559
+Alexander Albon completed lap  19:  1.276168227
+Kevin Magnussen completed lap  19:  1.242312074
+Sergio Perez completed lap  19:  1.151183486
+Lewis Hamilton completed lap  19:  1.211922765
+Zhou Guanyu completed lap  19:  1.187331796
+Pierre Gasly completed lap  19:  1.255647421
+Yuki Tsunoda completed lap  19:  1.261713624
+Valtteri Bottas completed lap  19:  1.199454546
+Carlos Sainz completed lap  19:  1.161665320
+George Russel completed lap  19:  1.252051592
+Nico Hulkenberg completed lap  19:  1.283419251
+Liam Lawson (RB) - total race time:  22.759645106
+Fernando Alonso (Aston Martin) - total race time:  22.867535114
+Oscar Piastri (McLaren) - total race time:  22.927664879
+Lance Stroll (Aston Martin) - total race time:  22.993407964
+Franco Collapinto (Williams) - total race time:  23.010478736
+Lando Norris (McLaren) - total race time:  23.027854920
+Max Verstappen (Red Bull Racing) - total race time:  23.031274558
+Charles Leclerc (Ferrari) - total race time:  23.033534528
+Esteban Ocon (Alpine) - total race time:  23.040611983
+Kevin Magnussen (Haas) - total race time:  23.083223343
+Alexander Albon (Williams) - total race time:  23.095136642
+Sergio Perez (Red Bull Racing) - total race time:  23.145775439
+Lewis Hamilton (Mercedes) - total race time:  23.146532776
+Zhou Guanyu (Kick Sauber) - total race time:  23.168206334
+Pierre Gasly (Alpine) - total race time:  23.280487537
+Yuki Tsunoda (RB) - total race time:  23.287763359
+Valtteri Bottas (Kick Sauber) - total race time:  23.353376271
+Carlos Sainz (Ferrari) - total race time:  23.392363904
+George Russel (Mercedes) - total race time:  23.481082559
+Nico Hulkenberg (Haas) - total race time:  23.739223838
+
+Fernando Alonso completed lap  20:  1.165933967
+***** Fernando Alonso has pitted on lap number:  20 *****
+Liam Lawson completed lap  20:  1.178549051
+Lance Stroll completed lap  20:  1.155352116
+Franco Collapinto completed lap  20:  1.171536565
+Oscar Piastri completed lap  20:  1.286713123
+Charles Leclerc completed lap  20:  1.146926284
+Max Verstappen completed lap  20:  1.220388412
+Zhou Guanyu completed lap  20:  1.143150210
+Lando Norris completed lap  20:  1.263431668
+Esteban Ocon completed lap  20:  1.276397705
+Kevin Magnussen completed lap  20:  1.235711575
+Alexander Albon completed lap  20:  1.260900140
+Lewis Hamilton completed lap  20:  1.218543410
+Sergio Perez completed lap  20:  1.271814585
+Yuki Tsunoda completed lap  20:  1.155555129
+Pierre Gasly completed lap  20:  1.170825720
+***** Liam Lawson has pitted on lap number:  20 *****
+Valtteri Bottas completed lap  20:  1.269357204
+Carlos Sainz completed lap  20:  1.254890203
+George Russel completed lap  20:  1.214637041
+Nico Hulkenberg completed lap  20:  1.224065661
+Liam Lawson (RB) - total race time:  23.938194157
+Lance Stroll (Aston Martin) - total race time:  24.148760080
+Charles Leclerc (Ferrari) - total race time:  24.180460812
+Franco Collapinto (Williams) - total race time:  24.182015301
+Oscar Piastri (McLaren) - total race time:  24.214378002
+Max Verstappen (Red Bull Racing) - total race time:  24.251662970
+Lando Norris (McLaren) - total race time:  24.291286588
+Zhou Guanyu (Kick Sauber) - total race time:  24.311356544
+Esteban Ocon (Alpine) - total race time:  24.317009688
+Kevin Magnussen (Haas) - total race time:  24.318934918
+Alexander Albon (Williams) - total race time:  24.356036782
+Lewis Hamilton (Mercedes) - total race time:  24.365076186
+Sergio Perez (Red Bull Racing) - total race time:  24.417590024
+Yuki Tsunoda (RB) - total race time:  24.443318488
+Pierre Gasly (Alpine) - total race time:  24.451313257
+Fernando Alonso (Aston Martin) - total race time:  24.533469081
+Valtteri Bottas (Kick Sauber) - total race time:  24.622733475
+Carlos Sainz (Ferrari) - total race time:  24.647254107
+George Russel (Mercedes) - total race time:  24.695719600
+Nico Hulkenberg (Haas) - total race time:  24.963289499
+
+***** Lance Stroll has pitted on lap number:  20 *****
+***** Franco Collapinto has pitted on lap number:  20 *****
+Fernando Alonso completed lap  21:  1.200916171
+***** Oscar Piastri has pitted on lap number:  20 *****
+Liam Lawson completed lap  21:  1.255755305
+***** Charles Leclerc has pitted on lap number:  20 *****
+Lance Stroll completed lap  21:  1.234828234
+Fernando Alonso completed lap  22:  1.161300421
+***** Max Verstappen has pitted on lap number:  20 *****
+Franco Collapinto completed lap  21:  1.202287674
+Liam Lawson completed lap  22:  1.199370146
+***** Zhou Guanyu has pitted on lap number:  20 *****
+Oscar Piastri completed lap  21:  1.171288013
+Lance Stroll completed lap  22:  1.173990607
+***** Lando Norris has pitted on lap number:  20 *****
+Fernando Alonso completed lap  23:  1.261589289
+Charles Leclerc completed lap  21:  1.250674725
+Franco Collapinto completed lap  22:  1.164877534
+***** Esteban Ocon has pitted on lap number:  20 *****
+Liam Lawson completed lap  23:  1.251602054
+Max Verstappen completed lap  21:  1.293852568
+Oscar Piastri completed lap  22:  1.177306294
+***** Kevin Magnussen has pitted on lap number:  20 *****
+Zhou Guanyu completed lap  21:  1.158147931
+Lance Stroll completed lap  23:  1.283604860
+Fernando Alonso completed lap  24:  1.209345102
+***** Alexander Albon has pitted on lap number:  20 *****
+Charles Leclerc completed lap  22:  1.288613915
+Franco Collapinto completed lap  23:  1.268686175
+Lando Norris completed lap  21:  1.209589362
+Alexander Albon (Williams) - total race time:  24.356036782
+Lewis Hamilton (Mercedes) - total race time:  24.365076186
+Sergio Perez (Red Bull Racing) - total race time:  24.417590024
+Yuki Tsunoda (RB) - total race time:  24.443318488
+Pierre Gasly (Alpine) - total race time:  24.451313257
+Valtteri Bottas (Kick Sauber) - total race time:  24.622733475
+Carlos Sainz (Ferrari) - total race time:  24.647254107
+George Russel (Mercedes) - total race time:  24.695719600
+Esteban Ocon (Alpine) - total race time:  24.817009688
+Kevin Magnussen (Haas) - total race time:  24.818934918
+Nico Hulkenberg (Haas) - total race time:  24.963289499
+Zhou Guanyu (Kick Sauber) - total race time:  25.969504475
+Lando Norris (McLaren) - total race time:  26.000875950
+Max Verstappen (Red Bull Racing) - total race time:  26.045515538
+Oscar Piastri (McLaren) - total race time:  27.062972309
+Charles Leclerc (Ferrari) - total race time:  27.219749452
+Liam Lawson (RB) - total race time:  28.144921662
+Franco Collapinto (Williams) - total race time:  28.317866684
+Lance Stroll (Aston Martin) - total race time:  28.341183781
+Fernando Alonso (Aston Martin) - total race time:  29.366620064
+
+Liam Lawson completed lap  24:  1.277289152
+Max Verstappen completed lap  22:  1.198190689
+***** Lewis Hamilton has pitted on lap number:  20 *****
+Oscar Piastri completed lap  23:  1.192982793
+Esteban Ocon completed lap  21:  1.288494587
+Zhou Guanyu completed lap  22:  1.223338008
+Lance Stroll completed lap  24:  1.206922889
+***** Sergio Perez has pitted on lap number:  20 *****
+Fernando Alonso completed lap  25:  1.242437601
+Charles Leclerc completed lap  23:  1.140426874
+Franco Collapinto completed lap  24:  1.163563251
+Kevin Magnussen completed lap  21:  1.283149838
+Lando Norris completed lap  22:  1.292100310
+***** Yuki Tsunoda has pitted on lap number:  20 *****
+Liam Lawson completed lap  25:  1.197504759
+Oscar Piastri completed lap  24:  1.240827560
+Max Verstappen completed lap  23:  1.296938181
+Alexander Albon completed lap  21:  1.294731379
+Esteban Ocon completed lap  22:  1.204406977
+Lance Stroll completed lap  25:  1.166130543
+***** Pierre Gasly has pitted on lap number:  20 *****
+Zhou Guanyu completed lap  23:  1.267964840
+Fernando Alonso completed lap  26:  1.156298757
+Lewis Hamilton completed lap  21:  1.241821408
+Pierre Gasly (Alpine) - total race time:  24.451313257
+Valtteri Bottas (Kick Sauber) - total race time:  24.622733475
+Carlos Sainz (Ferrari) - total race time:  24.647254107
+George Russel (Mercedes) - total race time:  24.695719600
+Sergio Perez (Red Bull Racing) - total race time:  24.917590024
+Yuki Tsunoda (RB) - total race time:  24.943318488
+Nico Hulkenberg (Haas) - total race time:  24.963289499
+Kevin Magnussen (Haas) - total race time:  26.102084756
+Lewis Hamilton (Mercedes) - total race time:  26.106897594
+Alexander Albon (Williams) - total race time:  26.150768161
+Lando Norris (McLaren) - total race time:  27.292976260
+Esteban Ocon (Alpine) - total race time:  27.309911252
+Charles Leclerc (Ferrari) - total race time:  28.360176326
+Zhou Guanyu (Kick Sauber) - total race time:  28.460807323
+Max Verstappen (Red Bull Racing) - total race time:  28.540644408
+Franco Collapinto (Williams) - total race time:  29.481429935
+Oscar Piastri (McLaren) - total race time:  29.496782662
+Liam Lawson (RB) - total race time:  30.619715573
+Lance Stroll (Aston Martin) - total race time:  30.714237213
+Fernando Alonso (Aston Martin) - total race time:  31.765356422
+
+Charles Leclerc completed lap  24:  1.155532241
+Kevin Magnussen completed lap  22:  1.177119970
+Franco Collapinto completed lap  25:  1.259029865
+***** Valtteri Bottas has pitted on lap number:  20 *****
+Lando Norris completed lap  23:  1.196773291
+Sergio Perez completed lap  21:  1.295673251
+Liam Lawson completed lap  26:  1.265039921
+Oscar Piastri completed lap  25:  1.197284460
+Max Verstappen completed lap  24:  1.204251170
+***** Carlos Sainz has pitted on lap number:  20 *****
+Alexander Albon completed lap  22:  1.290560007
+Esteban Ocon completed lap  23:  1.219913483
+Lance Stroll completed lap  26:  1.196969628
+Yuki Tsunoda completed lap  21:  1.289658427
+Fernando Alonso completed lap  27:  1.155269146
+Zhou Guanyu completed lap  24:  1.234938145
+Lewis Hamilton completed lap  22:  1.163804770
+***** George Russel has pitted on lap number:  20 *****
+Charles Leclerc completed lap  25:  1.276490092
+Kevin Magnussen completed lap  23:  1.176228285
+Pierre Gasly completed lap  21:  1.195410490
+Franco Collapinto completed lap  26:  1.269125819
+Lando Norris completed lap  24:  1.255570650
+George Russel (Mercedes) - total race time:  24.695719600
+Nico Hulkenberg (Haas) - total race time:  24.963289499
+Valtteri Bottas (Kick Sauber) - total race time:  25.122733475
+Carlos Sainz (Ferrari) - total race time:  25.147254107
+Pierre Gasly (Alpine) - total race time:  26.146723747
+Sergio Perez (Red Bull Racing) - total race time:  26.213263275
+Yuki Tsunoda (RB) - total race time:  26.232976915
+Lewis Hamilton (Mercedes) - total race time:  27.270702364
+Alexander Albon (Williams) - total race time:  27.441328168
+Kevin Magnussen (Haas) - total race time:  28.455433011
+Esteban Ocon (Alpine) - total race time:  28.529824735
+Zhou Guanyu (Kick Sauber) - total race time:  29.695745468
+Max Verstappen (Red Bull Racing) - total race time:  29.744895578
+Lando Norris (McLaren) - total race time:  29.745320201
+Oscar Piastri (McLaren) - total race time:  30.694067122
+Charles Leclerc (Ferrari) - total race time:  30.792198659
+Liam Lawson (RB) - total race time:  31.884755494
+Lance Stroll (Aston Martin) - total race time:  31.911206841
+Franco Collapinto (Williams) - total race time:  32.009585619
+Fernando Alonso (Aston Martin) - total race time:  32.920625568
+
+Sergio Perez completed lap  22:  1.170536280
+***** Nico Hulkenberg has pitted on lap number:  20 *****
+Liam Lawson completed lap  27:  1.178285837
+Max Verstappen completed lap  25:  1.207651973
+Oscar Piastri completed lap  26:  1.291012287
+Valtteri Bottas completed lap  21:  1.225889921
+Alexander Albon completed lap  23:  1.181271791
+Lance Stroll completed lap  27:  1.229676843
+Yuki Tsunoda completed lap  22:  1.157267451
+Esteban Ocon completed lap  24:  1.286890388
+Fernando Alonso completed lap  28:  1.151122928
+Zhou Guanyu completed lap  25:  1.214411616
+Lewis Hamilton completed lap  23:  1.265086174
+Carlos Sainz completed lap  21:  1.234959006
+Charles Leclerc completed lap  26:  1.188030124
+Kevin Magnussen completed lap  24:  1.162584782
+Pierre Gasly completed lap  22:  1.169460773
+Franco Collapinto completed lap  27:  1.216563463
+Lando Norris completed lap  25:  1.239147544
+Sergio Perez completed lap  23:  1.221633434
+George Russel completed lap  21:  1.240024686
+Nico Hulkenberg (Haas) - total race time:  25.463289499
+Valtteri Bottas (Kick Sauber) - total race time:  26.348623396
+Carlos Sainz (Ferrari) - total race time:  26.382213113
+George Russel (Mercedes) - total race time:  26.435744286
+Pierre Gasly (Alpine) - total race time:  27.316184520
+Yuki Tsunoda (RB) - total race time:  27.390244366
+Lewis Hamilton (Mercedes) - total race time:  28.535788538
+Sergio Perez (Red Bull Racing) - total race time:  28.605432989
+Alexander Albon (Williams) - total race time:  28.622599959
+Kevin Magnussen (Haas) - total race time:  29.618017793
+Esteban Ocon (Alpine) - total race time:  29.816715123
+Zhou Guanyu (Kick Sauber) - total race time:  30.910157084
+Max Verstappen (Red Bull Racing) - total race time:  30.952547551
+Lando Norris (McLaren) - total race time:  30.984467745
+Charles Leclerc (Ferrari) - total race time:  31.980228783
+Oscar Piastri (McLaren) - total race time:  31.985079409
+Liam Lawson (RB) - total race time:  33.063041331
+Lance Stroll (Aston Martin) - total race time:  33.140883684
+Franco Collapinto (Williams) - total race time:  33.226149082
+Fernando Alonso (Aston Martin) - total race time:  34.071748496
+
+Liam Lawson completed lap  28:  1.271450758
+Valtteri Bottas completed lap  22:  1.145644546
+Max Verstappen completed lap  26:  1.227579832
+Alexander Albon completed lap  24:  1.187800527
+Oscar Piastri completed lap  27:  1.264408708
+Yuki Tsunoda completed lap  23:  1.171992183
+Lance Stroll completed lap  28:  1.208218455
+Fernando Alonso completed lap  29:  1.205520988
+Zhou Guanyu completed lap  26:  1.143386126
+Esteban Ocon completed lap  25:  1.265068173
+Nico Hulkenberg completed lap  21:  1.235478640
+Lewis Hamilton completed lap  24:  1.192887425
+Kevin Magnussen completed lap  25:  1.190037727
+Charles Leclerc completed lap  27:  1.239871979
+Carlos Sainz completed lap  22:  1.280465007
+Pierre Gasly completed lap  23:  1.179074645
+Franco Collapinto completed lap  28:  1.198397279
+Sergio Perez completed lap  24:  1.203671813
+Lando Norris completed lap  26:  1.261084080
+George Russel completed lap  22:  1.284691930
+Nico Hulkenberg (Haas) - total race time:  26.698768139
+Valtteri Bottas (Kick Sauber) - total race time:  27.494267942
+Carlos Sainz (Ferrari) - total race time:  27.662678120
+George Russel (Mercedes) - total race time:  27.720436216
+Pierre Gasly (Alpine) - total race time:  28.495259165
+Yuki Tsunoda (RB) - total race time:  28.562236549
+Lewis Hamilton (Mercedes) - total race time:  29.728675963
+Sergio Perez (Red Bull Racing) - total race time:  29.809104802
+Alexander Albon (Williams) - total race time:  29.810400486
+Kevin Magnussen (Haas) - total race time:  30.808055520
+Esteban Ocon (Alpine) - total race time:  31.081783296
+Zhou Guanyu (Kick Sauber) - total race time:  32.053543210
+Max Verstappen (Red Bull Racing) - total race time:  32.180127383
+Lando Norris (McLaren) - total race time:  32.245551825
+Charles Leclerc (Ferrari) - total race time:  33.220100762
+Oscar Piastri (McLaren) - total race time:  33.249488117
+Liam Lawson (RB) - total race time:  34.334492089
+Lance Stroll (Aston Martin) - total race time:  34.349102139
+Franco Collapinto (Williams) - total race time:  34.424546361
+Fernando Alonso (Aston Martin) - total race time:  35.277269484
+
+Alexander Albon completed lap  25:  1.150546193
+Max Verstappen completed lap  27:  1.240733266
+Liam Lawson completed lap  29:  1.277180672
+Valtteri Bottas completed lap  23:  1.254473805
+Oscar Piastri completed lap  28:  1.178830743
+Lance Stroll completed lap  29:  1.213414073
+Zhou Guanyu completed lap  27:  1.171300530
+Yuki Tsunoda completed lap  24:  1.256732702
+Fernando Alonso completed lap  30:  1.247912884
+Esteban Ocon completed lap  26:  1.290621281
+Nico Hulkenberg completed lap  22:  1.233761191
+Lewis Hamilton completed lap  25:  1.185139537
+Charles Leclerc completed lap  28:  1.236902475
+Kevin Magnussen completed lap  26:  1.284659266
+Pierre Gasly completed lap  24:  1.222999692
+Carlos Sainz completed lap  23:  1.279869318
+Franco Collapinto completed lap  29:  1.213762999
+Sergio Perez completed lap  25:  1.190957308
+Lando Norris completed lap  27:  1.268586516
+Alexander Albon completed lap  26:  1.197549462
+George Russel (Mercedes) - total race time:  27.720436216
+Nico Hulkenberg (Haas) - total race time:  27.932529330
+Valtteri Bottas (Kick Sauber) - total race time:  28.748741747
+Carlos Sainz (Ferrari) - total race time:  28.942547438
+Pierre Gasly (Alpine) - total race time:  29.718258857
+Yuki Tsunoda (RB) - total race time:  29.818969251
+Lewis Hamilton (Mercedes) - total race time:  30.913815500
+Sergio Perez (Red Bull Racing) - total race time:  31.000062110
+Kevin Magnussen (Haas) - total race time:  32.092714786
+Alexander Albon (Williams) - total race time:  32.158496141
+Esteban Ocon (Alpine) - total race time:  32.372404577
+Zhou Guanyu (Kick Sauber) - total race time:  33.224843740
+Max Verstappen (Red Bull Racing) - total race time:  33.420860649
+Lando Norris (McLaren) - total race time:  33.514138341
+Oscar Piastri (McLaren) - total race time:  34.428318860
+Charles Leclerc (Ferrari) - total race time:  34.457003237
+Lance Stroll (Aston Martin) - total race time:  35.562516212
+Liam Lawson (RB) - total race time:  35.611672761
+Franco Collapinto (Williams) - total race time:  35.638309360
+Fernando Alonso (Aston Martin) - total race time:  36.525182368
+
+Max Verstappen completed lap  28:  1.153465271
+Valtteri Bottas completed lap  24:  1.208157659
+George Russel completed lap  23:  1.269651413
+Liam Lawson completed lap  30:  1.229967475
+Oscar Piastri completed lap  29:  1.226326704
+Lance Stroll completed lap  30:  1.195142508
+Fernando Alonso completed lap  31:  1.155311346
+Yuki Tsunoda completed lap  25:  1.234940529
+Zhou Guanyu completed lap  28:  1.274184585
+Nico Hulkenberg completed lap  23:  1.142126799
+Esteban Ocon completed lap  27:  1.159899235
+Lewis Hamilton completed lap  26:  1.157915592
+Charles Leclerc completed lap  29:  1.150741816
+Kevin Magnussen completed lap  27:  1.181965232
+Pierre Gasly completed lap  25:  1.233951211
+Carlos Sainz completed lap  24:  1.202601314
+Franco Collapinto completed lap  30:  1.242176414
+Sergio Perez completed lap  26:  1.276928663
+Lando Norris completed lap  28:  1.202666759
+Max Verstappen completed lap  29:  1.211722732
+George Russel (Mercedes) - total race time:  28.990087629
+Nico Hulkenberg (Haas) - total race time:  29.074656129
+Valtteri Bottas (Kick Sauber) - total race time:  29.956899406
+Carlos Sainz (Ferrari) - total race time:  30.145148752
+Pierre Gasly (Alpine) - total race time:  30.952210068
+Yuki Tsunoda (RB) - total race time:  31.053909780
+Lewis Hamilton (Mercedes) - total race time:  32.071731092
+Alexander Albon (Williams) - total race time:  32.158496141
+Sergio Perez (Red Bull Racing) - total race time:  32.276990773
+Kevin Magnussen (Haas) - total race time:  33.274680018
+Esteban Ocon (Alpine) - total race time:  33.532303812
+Zhou Guanyu (Kick Sauber) - total race time:  34.499028325
+Lando Norris (McLaren) - total race time:  34.716805100
+Charles Leclerc (Ferrari) - total race time:  35.607745053
+Oscar Piastri (McLaren) - total race time:  35.654645564
+Max Verstappen (Red Bull Racing) - total race time:  35.786048652
+Lance Stroll (Aston Martin) - total race time:  36.757658720
+Liam Lawson (RB) - total race time:  36.841640236
+Franco Collapinto (Williams) - total race time:  36.880485774
+Fernando Alonso (Aston Martin) - total race time:  37.680493714
+
+Liam Lawson completed lap  31:  1.140158296
+George Russel completed lap  24:  1.222427845
+Alexander Albon completed lap  27:  1.269565105
+Oscar Piastri completed lap  30:  1.205689311
+Valtteri Bottas completed lap  25:  1.241857767
+Fernando Alonso completed lap  32:  1.191603541
+Yuki Tsunoda completed lap  26:  1.154255867
+Lance Stroll completed lap  31:  1.284021974
+Lewis Hamilton completed lap  27:  1.170242906
+Esteban Ocon completed lap  28:  1.222195029
+Nico Hulkenberg completed lap  24:  1.238151550
+Zhou Guanyu completed lap  29:  1.234128833
+Charles Leclerc completed lap  30:  1.163172960
+Kevin Magnussen completed lap  28:  1.180961847
+Pierre Gasly completed lap  26:  1.161948442
+Carlos Sainz completed lap  25:  1.291258812
+Franco Collapinto completed lap  31:  1.273430705
+Sergio Perez completed lap  27:  1.196976900
+Lando Norris completed lap  29:  1.196109295
+George Russel completed lap  25:  1.173525333
+Nico Hulkenberg (Haas) - total race time:  30.312807679
+Valtteri Bottas (Kick Sauber) - total race time:  31.198757173
+George Russel (Mercedes) - total race time:  31.386040807
+Carlos Sainz (Ferrari) - total race time:  31.436407564
+Pierre Gasly (Alpine) - total race time:  32.114158510
+Yuki Tsunoda (RB) - total race time:  32.208165647
+Lewis Hamilton (Mercedes) - total race time:  33.241973998
+Alexander Albon (Williams) - total race time:  33.428061246
+Sergio Perez (Red Bull Racing) - total race time:  33.473967673
+Kevin Magnussen (Haas) - total race time:  34.455641865
+Esteban Ocon (Alpine) - total race time:  34.754498841
+Zhou Guanyu (Kick Sauber) - total race time:  35.733157158
+Max Verstappen (Red Bull Racing) - total race time:  35.786048652
+Lando Norris (McLaren) - total race time:  35.912914395
+Charles Leclerc (Ferrari) - total race time:  36.770918013
+Oscar Piastri (McLaren) - total race time:  36.860334875
+Liam Lawson (RB) - total race time:  37.981798532
+Lance Stroll (Aston Martin) - total race time:  38.041680694
+Franco Collapinto (Williams) - total race time:  38.153916479
+Fernando Alonso (Aston Martin) - total race time:  38.872097255
+
+Oscar Piastri completed lap  31:  1.156080246
+Max Verstappen completed lap  30:  1.241154671
+Valtteri Bottas completed lap  26:  1.176324964
+Alexander Albon completed lap  28:  1.214185715
+Liam Lawson completed lap  32:  1.273066640
+Fernando Alonso completed lap  33:  1.186128497
+Yuki Tsunoda completed lap  27:  1.174423575
+Nico Hulkenberg completed lap  25:  1.168897510
+Esteban Ocon completed lap  29:  1.197636604
+Lewis Hamilton completed lap  28:  1.236765027
+Lance Stroll completed lap  32:  1.279945970
+Zhou Guanyu completed lap  30:  1.266148210
+Charles Leclerc completed lap  31:  1.189149141
+Kevin Magnussen completed lap  29:  1.155518413
+Pierre Gasly completed lap  27:  1.249996185
+Carlos Sainz completed lap  26:  1.183927774
+Franco Collapinto completed lap  32:  1.239278316
+Sergio Perez completed lap  28:  1.202630758
+Lando Norris completed lap  30:  1.236206532
+George Russel completed lap  26:  1.150519967
+Nico Hulkenberg (Haas) - total race time:  31.481705189
+Valtteri Bottas (Kick Sauber) - total race time:  32.375082137
+George Russel (Mercedes) - total race time:  32.536560774
+Carlos Sainz (Ferrari) - total race time:  32.620335338
+Pierre Gasly (Alpine) - total race time:  33.364154695
+Yuki Tsunoda (RB) - total race time:  33.382589222
+Lewis Hamilton (Mercedes) - total race time:  34.478739025
+Alexander Albon (Williams) - total race time:  34.642246961
+Sergio Perez (Red Bull Racing) - total race time:  34.676598431
+Kevin Magnussen (Haas) - total race time:  35.611160278
+Esteban Ocon (Alpine) - total race time:  35.952135445
+Zhou Guanyu (Kick Sauber) - total race time:  36.999305368
+Max Verstappen (Red Bull Racing) - total race time:  37.027203323
+Lando Norris (McLaren) - total race time:  37.149120927
+Charles Leclerc (Ferrari) - total race time:  37.960067154
+Oscar Piastri (McLaren) - total race time:  38.016415121
+Liam Lawson (RB) - total race time:  39.254865172
+Lance Stroll (Aston Martin) - total race time:  39.321626664
+Franco Collapinto (Williams) - total race time:  39.393194795
+Fernando Alonso (Aston Martin) - total race time:  40.058225752
+
+Valtteri Bottas completed lap  27:  1.182974219
+Alexander Albon completed lap  29:  1.199151635
+Max Verstappen completed lap  31:  1.268638372
+Oscar Piastri completed lap  32:  1.289743304
+Liam Lawson completed lap  33:  1.245848298
+Fernando Alonso completed lap  34:  1.191161990
+Lance Stroll completed lap  33:  1.143272996
+Yuki Tsunoda completed lap  28:  1.292337775
+Esteban Ocon completed lap  30:  1.180894971
+Nico Hulkenberg completed lap  26:  1.222689748
+Lewis Hamilton completed lap  29:  1.195972681
+Zhou Guanyu completed lap  31:  1.229714513
+Charles Leclerc completed lap  32:  1.175946116
+Kevin Magnussen completed lap  30:  1.235012054
+Pierre Gasly completed lap  28:  1.250002503
+Carlos Sainz completed lap  27:  1.273051739
+Franco Collapinto completed lap  33:  1.240953684
+Lando Norris completed lap  31:  1.203077435
+Sergio Perez completed lap  29:  1.252807617
+Valtteri Bottas completed lap  28:  1.196734428
+George Russel (Mercedes) - total race time:  32.536560774
+Nico Hulkenberg (Haas) - total race time:  32.704394937
+Carlos Sainz (Ferrari) - total race time:  33.893387077
+Pierre Gasly (Alpine) - total race time:  34.614157198
+Yuki Tsunoda (RB) - total race time:  34.674926997
+Valtteri Bottas (Kick Sauber) - total race time:  34.754790784
+Lewis Hamilton (Mercedes) - total race time:  35.674711706
+Alexander Albon (Williams) - total race time:  35.841398596
+Sergio Perez (Red Bull Racing) - total race time:  35.929406048
+Kevin Magnussen (Haas) - total race time:  36.846172332
+Esteban Ocon (Alpine) - total race time:  37.133030416
+Zhou Guanyu (Kick Sauber) - total race time:  38.229019881
+Max Verstappen (Red Bull Racing) - total race time:  38.295841695
+Lando Norris (McLaren) - total race time:  38.352198362
+Charles Leclerc (Ferrari) - total race time:  39.136013270
+Oscar Piastri (McLaren) - total race time:  39.306158425
+Lance Stroll (Aston Martin) - total race time:  40.464899660
+Liam Lawson (RB) - total race time:  40.500713470
+Franco Collapinto (Williams) - total race time:  40.634148479
+Fernando Alonso (Aston Martin) - total race time:  41.249387742
+
+Alexander Albon completed lap  30:  1.170022130
+George Russel completed lap  27:  1.267696500
+Max Verstappen completed lap  32:  1.189031601
+Liam Lawson completed lap  34:  1.166258812
+Oscar Piastri completed lap  33:  1.220159054
+Fernando Alonso completed lap  35:  1.164401889
+Esteban Ocon completed lap  31:  1.221733928
+Nico Hulkenberg completed lap  27:  1.241287708
+Lewis Hamilton completed lap  30:  1.210471392
+Lance Stroll completed lap  34:  1.278542399
+Yuki Tsunoda completed lap  29:  1.299857020
+Charles Leclerc completed lap  33:  1.166076899
+Zhou Guanyu completed lap  32:  1.213118076
+Kevin Magnussen completed lap  31:  1.181825399
+Pierre Gasly completed lap  29:  1.222592711
+Franco Collapinto completed lap  34:  1.158264399
+Carlos Sainz completed lap  28:  1.291411877
+Lando Norris completed lap  32:  1.275072813
+Valtteri Bottas completed lap  29:  1.160447001
+Sergio Perez completed lap  30:  1.291046500
+George Russel (Mercedes) - total race time:  33.804257274
+Nico Hulkenberg (Haas) - total race time:  33.945682645
+Carlos Sainz (Ferrari) - total race time:  35.184798954
+Pierre Gasly (Alpine) - total race time:  35.836749909
+Valtteri Bottas (Kick Sauber) - total race time:  35.915237785
+Yuki Tsunoda (RB) - total race time:  35.974784017
+Lewis Hamilton (Mercedes) - total race time:  36.885183098
+Alexander Albon (Williams) - total race time:  37.011420726
+Sergio Perez (Red Bull Racing) - total race time:  37.220452548
+Kevin Magnussen (Haas) - total race time:  38.027997731
+Esteban Ocon (Alpine) - total race time:  38.354764344
+Zhou Guanyu (Kick Sauber) - total race time:  39.442137957
+Max Verstappen (Red Bull Racing) - total race time:  39.484873296
+Lando Norris (McLaren) - total race time:  39.627271175
+Charles Leclerc (Ferrari) - total race time:  40.302090169
+Oscar Piastri (McLaren) - total race time:  40.526317479
+Liam Lawson (RB) - total race time:  41.666972282
+Lance Stroll (Aston Martin) - total race time:  41.743442059
+Franco Collapinto (Williams) - total race time:  41.792412878
+Fernando Alonso (Aston Martin) - total race time:  42.413789631
+
+Alexander Albon completed lap  31:  1.167117238
+Oscar Piastri completed lap  34:  1.184518695
+George Russel completed lap  28:  1.261771679
+Max Verstappen completed lap  33:  1.269119501
+Liam Lawson completed lap  35:  1.259526610
+Fernando Alonso completed lap  36:  1.248449564
+Lewis Hamilton completed lap  31:  1.198369265
+Zhou Guanyu completed lap  33:  1.153901696
+Lance Stroll completed lap  35:  1.213161230
+Esteban Ocon completed lap  32:  1.272046566
+Yuki Tsunoda completed lap  30:  1.230573654
+Nico Hulkenberg completed lap  28:  1.294286132
+Kevin Magnussen completed lap  32:  1.161522865
+Charles Leclerc completed lap  34:  1.256602168
+Pierre Gasly completed lap  30:  1.155550241
+Franco Collapinto completed lap  35:  1.279892802
+Carlos Sainz completed lap  29:  1.242177129
+Lando Norris completed lap  33:  1.146686077
+Valtteri Bottas completed lap  30:  1.223582268
+Sergio Perez completed lap  31:  1.233840823
+George Russel (Mercedes) - total race time:  35.066028953
+Nico Hulkenberg (Haas) - total race time:  35.239968777
+Carlos Sainz (Ferrari) - total race time:  36.426976083
+Pierre Gasly (Alpine) - total race time:  36.992300150
+Valtteri Bottas (Kick Sauber) - total race time:  37.138820053
+Yuki Tsunoda (RB) - total race time:  37.205357671
+Lewis Hamilton (Mercedes) - total race time:  38.083552363
+Alexander Albon (Williams) - total race time:  38.178537964
+Sergio Perez (Red Bull Racing) - total race time:  38.454293371
+Kevin Magnussen (Haas) - total race time:  39.189520596
+Esteban Ocon (Alpine) - total race time:  39.626810910
+Zhou Guanyu (Kick Sauber) - total race time:  40.596039653
+Max Verstappen (Red Bull Racing) - total race time:  40.753992797
+Lando Norris (McLaren) - total race time:  40.773957252
+Charles Leclerc (Ferrari) - total race time:  41.558692337
+Oscar Piastri (McLaren) - total race time:  41.710836174
+Liam Lawson (RB) - total race time:  42.926498892
+Lance Stroll (Aston Martin) - total race time:  42.956603289
+Franco Collapinto (Williams) - total race time:  43.072305680
+Fernando Alonso (Aston Martin) - total race time:  43.662239195
+
+Alexander Albon completed lap  32:  1.241369128
+Liam Lawson completed lap  36:  1.152262926
+George Russel completed lap  29:  1.244818449
+Max Verstappen completed lap  34:  1.216952920
+Oscar Piastri completed lap  35:  1.284754872
+Fernando Alonso completed lap  37:  1.262770534
+Esteban Ocon completed lap  33:  1.170587659
+Zhou Guanyu completed lap  34:  1.190596819
+Lewis Hamilton completed lap  32:  1.285882711
+Lance Stroll completed lap  36:  1.273573399
+Nico Hulkenberg completed lap  29:  1.214067578
+Yuki Tsunoda completed lap  31:  1.283393383
+Kevin Magnussen completed lap  33:  1.246580243
+Charles Leclerc completed lap  35:  1.232622266
+Pierre Gasly completed lap  31:  1.217741013
+Carlos Sainz completed lap  30:  1.191846848
+Franco Collapinto completed lap  36:  1.242245317
+Lando Norris completed lap  34:  1.176196694
+Sergio Perez completed lap  32:  1.158265233
+Valtteri Bottas completed lap  31:  1.252777219
+George Russel (Mercedes) - total race time:  36.310847402
+Nico Hulkenberg (Haas) - total race time:  36.454036355
+Carlos Sainz (Ferrari) - total race time:  37.618822931
+Pierre Gasly (Alpine) - total race time:  38.210041163
+Valtteri Bottas (Kick Sauber) - total race time:  38.391597272
+Yuki Tsunoda (RB) - total race time:  38.488751054
+Lewis Hamilton (Mercedes) - total race time:  39.369435074
+Alexander Albon (Williams) - total race time:  39.419907092
+Sergio Perez (Red Bull Racing) - total race time:  39.612558604
+Kevin Magnussen (Haas) - total race time:  40.436100839
+Esteban Ocon (Alpine) - total race time:  40.797398569
+Zhou Guanyu (Kick Sauber) - total race time:  41.786636472
+Lando Norris (McLaren) - total race time:  41.950153946
+Max Verstappen (Red Bull Racing) - total race time:  41.970945717
+Charles Leclerc (Ferrari) - total race time:  42.791314603
+Oscar Piastri (McLaren) - total race time:  42.995591046
+Liam Lawson (RB) - total race time:  44.078761818
+Lance Stroll (Aston Martin) - total race time:  44.230176688
+Franco Collapinto (Williams) - total race time:  44.314550997
+Fernando Alonso (Aston Martin) - total race time:  44.925009729
+
+Alexander Albon completed lap  33:  1.225802779
+George Russel completed lap  30:  1.168852568
+Oscar Piastri completed lap  36:  1.147156358
+Liam Lawson completed lap  37:  1.256733537
+Max Verstappen completed lap  35:  1.267997384
+Fernando Alonso completed lap  38:  1.270058870
+Esteban Ocon completed lap  34:  1.189631581
+Zhou Guanyu completed lap  35:  1.236307859
+Nico Hulkenberg completed lap  30:  1.221500754
+Lewis Hamilton completed lap  33:  1.236562967
+Yuki Tsunoda completed lap  32:  1.182247639
+Lance Stroll completed lap  37:  1.238416672
+Charles Leclerc completed lap  36:  1.161103606
+Kevin Magnussen completed lap  34:  1.245640397
+Pierre Gasly completed lap  32:  1.171373367
+Carlos Sainz completed lap  31:  1.207401276
+Franco Collapinto completed lap  37:  1.296871185
+Lando Norris completed lap  35:  1.257787228
+Sergio Perez completed lap  33:  1.192087293
+Valtteri Bottas completed lap  32:  1.187283874
+George Russel (Mercedes) - total race time:  37.479699970
+Nico Hulkenberg (Haas) - total race time:  37.675537109
+Carlos Sainz (Ferrari) - total race time:  38.826224207
+Pierre Gasly (Alpine) - total race time:  39.381414530
+Valtteri Bottas (Kick Sauber) - total race time:  39.578881146
+Yuki Tsunoda (RB) - total race time:  39.670998693
+Lewis Hamilton (Mercedes) - total race time:  40.605998041
+Alexander Albon (Williams) - total race time:  40.645709871
+Sergio Perez (Red Bull Racing) - total race time:  40.804645897
+Kevin Magnussen (Haas) - total race time:  41.681741236
+Esteban Ocon (Alpine) - total race time:  41.987030150
+Zhou Guanyu (Kick Sauber) - total race time:  43.022944331
+Lando Norris (McLaren) - total race time:  43.207941174
+Max Verstappen (Red Bull Racing) - total race time:  43.238943101
+Charles Leclerc (Ferrari) - total race time:  43.952418209
+Oscar Piastri (McLaren) - total race time:  44.142747404
+Liam Lawson (RB) - total race time:  45.335495355
+Lance Stroll (Aston Martin) - total race time:  45.468593360
+Franco Collapinto (Williams) - total race time:  45.611422182
+Fernando Alonso (Aston Martin) - total race time:  46.195068599
+
+Liam Lawson completed lap  38:  1.172306895
+Alexander Albon completed lap  34:  1.272806883
+Oscar Piastri completed lap  37:  1.222064018
+George Russel completed lap  31:  1.234894991
+Max Verstappen completed lap  36:  1.236152530
+Esteban Ocon completed lap  35:  1.176608205
+Fernando Alonso completed lap  39:  1.240386963
+Lewis Hamilton completed lap  34:  1.145641923
+Nico Hulkenberg completed lap  31:  1.148596406
+Zhou Guanyu completed lap  36:  1.227441669
+Charles Leclerc completed lap  37:  1.169643521
+Lance Stroll completed lap  38:  1.185803652
+Yuki Tsunoda completed lap  33:  1.237364411
+Kevin Magnussen completed lap  35:  1.270412326
+Pierre Gasly completed lap  33:  1.220835686
+Carlos Sainz completed lap  32:  1.270478964
+Franco Collapinto completed lap  38:  1.246005774
+Lando Norris completed lap  36:  1.201325178
+Sergio Perez completed lap  34:  1.197439671
+Valtteri Bottas completed lap  33:  1.159361362
+George Russel (Mercedes) - total race time:  38.714594961
+Nico Hulkenberg (Haas) - total race time:  38.824133515
+Carlos Sainz (Ferrari) - total race time:  40.096703171
+Pierre Gasly (Alpine) - total race time:  40.602250216
+Valtteri Bottas (Kick Sauber) - total race time:  40.738242508
+Yuki Tsunoda (RB) - total race time:  40.908363104
+Lewis Hamilton (Mercedes) - total race time:  41.751639964
+Alexander Albon (Williams) - total race time:  41.918516754
+Sergio Perez (Red Bull Racing) - total race time:  42.002085568
+Kevin Magnussen (Haas) - total race time:  42.952153562
+Esteban Ocon (Alpine) - total race time:  43.163638355
+Zhou Guanyu (Kick Sauber) - total race time:  44.250386000
+Lando Norris (McLaren) - total race time:  44.409266352
+Max Verstappen (Red Bull Racing) - total race time:  44.475095631
+Charles Leclerc (Ferrari) - total race time:  45.122061730
+Oscar Piastri (McLaren) - total race time:  45.364811422
+Liam Lawson (RB) - total race time:  46.507802250
+Lance Stroll (Aston Martin) - total race time:  46.654397012
+Franco Collapinto (Williams) - total race time:  46.857427956
+Fernando Alonso (Aston Martin) - total race time:  47.435455562
+
+Liam Lawson completed lap  39:  1.260750175
+George Russel completed lap  32:  1.265999556
+Alexander Albon completed lap  35:  1.272764683
+Oscar Piastri completed lap  38:  1.288017154
+Max Verstappen completed lap  37:  1.249035358
+Esteban Ocon completed lap  36:  1.225882649
+Charles Leclerc completed lap  38:  1.162214398
+Lewis Hamilton completed lap  35:  1.223826885
+Nico Hulkenberg completed lap  32:  1.214834571
+Zhou Guanyu completed lap  37:  1.224950790
+Fernando Alonso completed lap  40:  1.292376518
+***** Fernando Alonso has pitted on lap number:  40 *****
+Lance Stroll completed lap  39:  1.261825562
+Yuki Tsunoda completed lap  34:  1.240129471
+Kevin Magnussen completed lap  36:  1.243259788
+Pierre Gasly completed lap  34:  1.260598302
+Carlos Sainz completed lap  33:  1.146944880
+Sergio Perez completed lap  35:  1.147286534
+Franco Collapinto completed lap  39:  1.165153384
+Lando Norris completed lap  37:  1.234866381
+Valtteri Bottas completed lap  34:  1.279349566
+George Russel (Mercedes) - total race time:  39.980594517
+Nico Hulkenberg (Haas) - total race time:  40.038968086
+Carlos Sainz (Ferrari) - total race time:  41.243648051
+Pierre Gasly (Alpine) - total race time:  41.862848518
+Valtteri Bottas (Kick Sauber) - total race time:  42.017592074
+Yuki Tsunoda (RB) - total race time:  42.148492575
+Lewis Hamilton (Mercedes) - total race time:  42.975466849
+Sergio Perez (Red Bull Racing) - total race time:  43.149372102
+Alexander Albon (Williams) - total race time:  43.191281437
+Kevin Magnussen (Haas) - total race time:  44.195413350
+Esteban Ocon (Alpine) - total race time:  44.389521004
+Zhou Guanyu (Kick Sauber) - total race time:  45.475336790
+Lando Norris (McLaren) - total race time:  45.644132733
+Max Verstappen (Red Bull Racing) - total race time:  45.724130989
+Charles Leclerc (Ferrari) - total race time:  46.284276128
+Oscar Piastri (McLaren) - total race time:  46.652828576
+Liam Lawson (RB) - total race time:  47.768552425
+Lance Stroll (Aston Martin) - total race time:  47.916222574
+Franco Collapinto (Williams) - total race time:  48.022581340
+Fernando Alonso (Aston Martin) - total race time:  49.227832080
+
+George Russel completed lap  33:  1.185363412
+Oscar Piastri completed lap  39:  1.225359082
+Liam Lawson completed lap  40:  1.279632330
+***** Liam Lawson has pitted on lap number:  40 *****
+Alexander Albon completed lap  36:  1.299407482
+Max Verstappen completed lap  38:  1.210823655
+Esteban Ocon completed lap  37:  1.167876005
+Lewis Hamilton completed lap  36:  1.155520439
+Nico Hulkenberg completed lap  33:  1.172814846
+Zhou Guanyu completed lap  38:  1.216512918
+Charles Leclerc completed lap  39:  1.267682791
+Yuki Tsunoda completed lap  35:  1.146535993
+Lance Stroll completed lap  40:  1.298261523
+***** Lance Stroll has pitted on lap number:  40 *****
+Kevin Magnussen completed lap  37:  1.272972107
+Pierre Gasly completed lap  35:  1.284409404
+Fernando Alonso completed lap  41:  1.148004293
+Carlos Sainz completed lap  34:  1.292740226
+Sergio Perez completed lap  36:  1.238739371
+Franco Collapinto completed lap  40:  1.219355941
+Lando Norris completed lap  38:  1.205842495
+***** Franco Collapinto has pitted on lap number:  40 *****
+Valtteri Bottas completed lap  35:  1.226153255
+George Russel (Mercedes) - total race time:  41.165957929
+Nico Hulkenberg (Haas) - total race time:  41.211782932
+Carlos Sainz (Ferrari) - total race time:  42.536388277
+Pierre Gasly (Alpine) - total race time:  43.147257922
+Valtteri Bottas (Kick Sauber) - total race time:  43.243745329
+Yuki Tsunoda (RB) - total race time:  43.295028568
+Lewis Hamilton (Mercedes) - total race time:  44.130987288
+Sergio Perez (Red Bull Racing) - total race time:  44.388111473
+Alexander Albon (Williams) - total race time:  44.490688919
+Kevin Magnussen (Haas) - total race time:  45.468385457
+Esteban Ocon (Alpine) - total race time:  45.557397009
+Zhou Guanyu (Kick Sauber) - total race time:  46.691849708
+Lando Norris (McLaren) - total race time:  46.849975228
+Max Verstappen (Red Bull Racing) - total race time:  46.934954644
+Charles Leclerc (Ferrari) - total race time:  47.551958919
+Oscar Piastri (McLaren) - total race time:  47.878187658
+Franco Collapinto (Williams) - total race time:  49.241937281
+Liam Lawson (RB) - total race time:  49.548184755
+Lance Stroll (Aston Martin) - total race time:  49.714484097
+Fernando Alonso (Aston Martin) - total race time:  50.375836373
+
+Oscar Piastri completed lap  40:  1.237642169
+George Russel completed lap  34:  1.280552268
+Esteban Ocon completed lap  38:  1.170063257
+Alexander Albon completed lap  37:  1.230551243
+Nico Hulkenberg completed lap  34:  1.176161170
+Max Verstappen completed lap  39:  1.298516154
+Zhou Guanyu completed lap  39:  1.180272818
+Lewis Hamilton completed lap  37:  1.264054060
+Charles Leclerc completed lap  40:  1.252774835
+***** Oscar Piastri has pitted on lap number:  40 *****
+Yuki Tsunoda completed lap  36:  1.263922453
+Kevin Magnussen completed lap  38:  1.210058808
+Liam Lawson completed lap  41:  1.272502422
+Fernando Alonso completed lap  42:  1.157348990
+Pierre Gasly completed lap  36:  1.265179515
+***** Charles Leclerc has pitted on lap number:  40 *****
+Sergio Perez completed lap  37:  1.202188134
+Carlos Sainz completed lap  35:  1.251355290
+Lando Norris completed lap  39:  1.257121682
+Valtteri Bottas completed lap  36:  1.185422778
+Lance Stroll completed lap  41:  1.241468430
+George Russel completed lap  35:  1.189523220
+Nico Hulkenberg (Haas) - total race time:  42.387944102
+George Russel (Mercedes) - total race time:  43.636033417
+Carlos Sainz (Ferrari) - total race time:  43.787743567
+Pierre Gasly (Alpine) - total race time:  44.412437437
+Valtteri Bottas (Kick Sauber) - total race time:  44.429168107
+Yuki Tsunoda (RB) - total race time:  44.558951021
+Lewis Hamilton (Mercedes) - total race time:  45.395041348
+Sergio Perez (Red Bull Racing) - total race time:  45.590299607
+Alexander Albon (Williams) - total race time:  45.721240162
+Kevin Magnussen (Haas) - total race time:  46.678444265
+Esteban Ocon (Alpine) - total race time:  46.727460266
+Zhou Guanyu (Kick Sauber) - total race time:  47.872122526
+Lando Norris (McLaren) - total race time:  48.107096910
+Max Verstappen (Red Bull Racing) - total race time:  48.233470798
+Charles Leclerc (Ferrari) - total race time:  48.804733754
+Oscar Piastri (McLaren) - total race time:  49.615829827
+Franco Collapinto (Williams) - total race time:  49.741937281
+Liam Lawson (RB) - total race time:  50.820687177
+Lance Stroll (Aston Martin) - total race time:  50.955952527
+Fernando Alonso (Aston Martin) - total race time:  51.533185363
+
+Alexander Albon completed lap  38:  1.233621120
+Esteban Ocon completed lap  39:  1.245704293
+Max Verstappen completed lap  40:  1.178933263
+***** Max Verstappen has pitted on lap number:  40 *****
+Lewis Hamilton completed lap  38:  1.180184364
+Nico Hulkenberg completed lap  35:  1.252792120
+Zhou Guanyu completed lap  40:  1.252117991
+Yuki Tsunoda completed lap  37:  1.283818722
+Franco Collapinto completed lap  41:  1.294002891
+Kevin Magnussen completed lap  39:  1.200432181
+Pierre Gasly completed lap  37:  1.150202394
+Fernando Alonso completed lap  43:  1.166870475
+***** Zhou Guanyu has pitted on lap number:  40 *****
+Liam Lawson completed lap  42:  1.289177537
+Carlos Sainz completed lap  36:  1.142222524
+Sergio Perez completed lap  38:  1.177199244
+Oscar Piastri completed lap  41:  1.224695206
+Lando Norris completed lap  40:  1.258084893
+Lance Stroll completed lap  42:  1.185727358
+Valtteri Bottas completed lap  37:  1.212672472
+***** Lando Norris has pitted on lap number:  40 *****
+George Russel completed lap  36:  1.224717975
+Charles Leclerc completed lap  41:  1.197942138
+Nico Hulkenberg (Haas) - total race time:  43.640736222
+George Russel (Mercedes) - total race time:  44.860751392
+Carlos Sainz (Ferrari) - total race time:  44.929966091
+Pierre Gasly (Alpine) - total race time:  45.562639831
+Valtteri Bottas (Kick Sauber) - total race time:  45.641840579
+Yuki Tsunoda (RB) - total race time:  45.842769743
+Lewis Hamilton (Mercedes) - total race time:  46.575225712
+Sergio Perez (Red Bull Racing) - total race time:  46.767498851
+Alexander Albon (Williams) - total race time:  46.954861282
+Kevin Magnussen (Haas) - total race time:  47.878876446
+Esteban Ocon (Alpine) - total race time:  47.973164559
+Lando Norris (McLaren) - total race time:  49.365181803
+Zhou Guanyu (Kick Sauber) - total race time:  49.624240517
+Max Verstappen (Red Bull Racing) - total race time:  49.912404061
+Charles Leclerc (Ferrari) - total race time:  50.502675892
+Oscar Piastri (McLaren) - total race time:  50.840525033
+Franco Collapinto (Williams) - total race time:  51.035940172
+Liam Lawson (RB) - total race time:  52.109864714
+Lance Stroll (Aston Martin) - total race time:  52.141679885
+Fernando Alonso (Aston Martin) - total race time:  52.700055838
+
+Esteban Ocon completed lap  40:  1.249177933
+Nico Hulkenberg completed lap  36:  1.163485765
+Alexander Albon completed lap  39:  1.298760414
+Lewis Hamilton completed lap  39:  1.253238559
+Franco Collapinto completed lap  42:  1.155626535
+***** Esteban Ocon has pitted on lap number:  40 *****
+Yuki Tsunoda completed lap  38:  1.238272548
+Kevin Magnussen completed lap  40:  1.298259139
+Max Verstappen completed lap  41:  1.194302797
+Pierre Gasly completed lap  38:  1.276716948
+Fernando Alonso completed lap  44:  1.294901371
+Liam Lawson completed lap  43:  1.251794338
+Carlos Sainz completed lap  37:  1.248993158
+Sergio Perez completed lap  39:  1.251026630
+Oscar Piastri completed lap  42:  1.227738023
+***** Kevin Magnussen has pitted on lap number:  40 *****
+Lance Stroll completed lap  43:  1.203152061
+Valtteri Bottas completed lap  38:  1.214863181
+Zhou Guanyu completed lap  41:  1.245272636
+George Russel completed lap  37:  1.249297261
+Charles Leclerc completed lap  42:  1.178982973
+Alexander Albon completed lap  40:  1.200997710
+Nico Hulkenberg (Haas) - total race time:  44.804221987
+George Russel (Mercedes) - total race time:  46.110048653
+Carlos Sainz (Ferrari) - total race time:  46.178959249
+Pierre Gasly (Alpine) - total race time:  46.839356779
+Valtteri Bottas (Kick Sauber) - total race time:  46.856703760
+Yuki Tsunoda (RB) - total race time:  47.081042291
+Lewis Hamilton (Mercedes) - total race time:  47.828464271
+Sergio Perez (Red Bull Racing) - total race time:  48.018525481
+Kevin Magnussen (Haas) - total race time:  49.177135585
+Alexander Albon (Williams) - total race time:  49.454619406
+Esteban Ocon (Alpine) - total race time:  49.722342492
+Lando Norris (McLaren) - total race time:  49.865181803
+Zhou Guanyu (Kick Sauber) - total race time:  50.869513153
+Max Verstappen (Red Bull Racing) - total race time:  51.106706858
+Charles Leclerc (Ferrari) - total race time:  51.681658865
+Oscar Piastri (McLaren) - total race time:  52.068263056
+Franco Collapinto (Williams) - total race time:  52.191566707
+Lance Stroll (Aston Martin) - total race time:  53.344831946
+Liam Lawson (RB) - total race time:  53.361659052
+Fernando Alonso (Aston Martin) - total race time:  53.994957209
+
+Nico Hulkenberg completed lap  37:  1.245514512
+***** Alexander Albon has pitted on lap number:  40 *****
+Lewis Hamilton completed lap  40:  1.243195891
+Yuki Tsunoda completed lap  39:  1.167180061
+Lando Norris completed lap  41:  1.205862761
+Franco Collapinto completed lap  43:  1.295726776
+Max Verstappen completed lap  42:  1.155493379
+Pierre Gasly completed lap  39:  1.180337429
+Liam Lawson completed lap  44:  1.191701055
+***** Lewis Hamilton has pitted on lap number:  40 *****
+Fernando Alonso completed lap  45:  1.296652079
+Sergio Perez completed lap  40:  1.184886217
+Carlos Sainz completed lap  38:  1.236887932
+Oscar Piastri completed lap  43:  1.248463511
+Esteban Ocon completed lap  41:  1.287835717
+Lance Stroll completed lap  44:  1.288686991
+Valtteri Bottas completed lap  39:  1.291573763
+Zhou Guanyu completed lap  42:  1.248835325
+***** Sergio Perez has pitted on lap number:  40 *****
+Charles Leclerc completed lap  43:  1.204152942
+George Russel completed lap  38:  1.253786087
+Nico Hulkenberg completed lap  38:  1.145216107
+Kevin Magnussen completed lap  41:  1.165950060
+Nico Hulkenberg (Haas) - total race time:  47.194952606
+George Russel (Mercedes) - total race time:  47.363834740
+Carlos Sainz (Ferrari) - total race time:  47.415847181
+Pierre Gasly (Alpine) - total race time:  48.019694208
+Valtteri Bottas (Kick Sauber) - total race time:  48.148277523
+Yuki Tsunoda (RB) - total race time:  48.248222352
+Sergio Perez (Red Bull Racing) - total race time:  49.203411698
+Lewis Hamilton (Mercedes) - total race time:  49.571660162
+Alexander Albon (Williams) - total race time:  49.954619406
+Kevin Magnussen (Haas) - total race time:  50.843085645
+Esteban Ocon (Alpine) - total race time:  51.010178209
+Lando Norris (McLaren) - total race time:  51.071044564
+Zhou Guanyu (Kick Sauber) - total race time:  52.118348478
+Max Verstappen (Red Bull Racing) - total race time:  52.262200237
+Charles Leclerc (Ferrari) - total race time:  52.885811807
+Oscar Piastri (McLaren) - total race time:  53.316726567
+Franco Collapinto (Williams) - total race time:  53.487293483
+Liam Lawson (RB) - total race time:  54.553360107
+Lance Stroll (Aston Martin) - total race time:  54.633518937
+Fernando Alonso (Aston Martin) - total race time:  55.291609288
+
+Yuki Tsunoda completed lap  40:  1.260904193
+Lando Norris completed lap  42:  1.238385201
+Franco Collapinto completed lap  44:  1.280161858
+***** Yuki Tsunoda has pitted on lap number:  40 *****
+Pierre Gasly completed lap  40:  1.163715482
+Max Verstappen completed lap  43:  1.249020338
+Liam Lawson completed lap  45:  1.268861532
+Alexander Albon completed lap  41:  1.279154539
+Carlos Sainz completed lap  39:  1.252791405
+Oscar Piastri completed lap  44:  1.238871813
+Esteban Ocon completed lap  42:  1.156373620
+***** Pierre Gasly has pitted on lap number:  40 *****
+Valtteri Bottas completed lap  40:  1.259822369
+Lance Stroll completed lap  45:  1.269591570
+Zhou Guanyu completed lap  43:  1.206522942
+Lewis Hamilton completed lap  41:  1.175744295
+George Russel completed lap  39:  1.167984843
+Charles Leclerc completed lap  44:  1.260852814
+Kevin Magnussen completed lap  42:  1.160973191
+Nico Hulkenberg completed lap  39:  1.222822070
+***** Valtteri Bottas has pitted on lap number:  40 *****
+Sergio Perez completed lap  41:  1.172904730
+Lando Norris completed lap  43:  1.243591309
+Nico Hulkenberg (Haas) - total race time:  48.417774676
+George Russel (Mercedes) - total race time:  48.531819583
+Carlos Sainz (Ferrari) - total race time:  48.668638586
+Valtteri Bottas (Kick Sauber) - total race time:  49.408099892
+Pierre Gasly (Alpine) - total race time:  49.683409690
+Yuki Tsunoda (RB) - total race time:  50.009126545
+Lewis Hamilton (Mercedes) - total race time:  50.747404457
+Sergio Perez (Red Bull Racing) - total race time:  50.876316428
+Alexander Albon (Williams) - total race time:  51.233773945
+Kevin Magnussen (Haas) - total race time:  52.004058836
+Esteban Ocon (Alpine) - total race time:  52.166551829
+Zhou Guanyu (Kick Sauber) - total race time:  53.324871420
+Max Verstappen (Red Bull Racing) - total race time:  53.511220575
+Lando Norris (McLaren) - total race time:  53.553021074
+Charles Leclerc (Ferrari) - total race time:  54.146664621
+Oscar Piastri (McLaren) - total race time:  54.555598380
+Franco Collapinto (Williams) - total race time:  54.767455341
+Fernando Alonso (Aston Martin) - total race time:  55.291609288
+Liam Lawson (RB) - total race time:  55.822221639
+Lance Stroll (Aston Martin) - total race time:  55.903110507
+
+Franco Collapinto completed lap  45:  1.295001984
+Max Verstappen completed lap  44:  1.276252031
+Alexander Albon completed lap  42:  1.196152806
+Oscar Piastri completed lap  45:  1.161537290
+Carlos Sainz completed lap  40:  1.228718281
+***** Carlos Sainz has pitted on lap number:  40 *****
+Esteban Ocon completed lap  43:  1.205800056
+Yuki Tsunoda completed lap  41:  1.246662855
+Lewis Hamilton completed lap  42:  1.165297985
+George Russel completed lap  40:  1.182979941
+Zhou Guanyu completed lap  44:  1.280983448
+Charles Leclerc completed lap  45:  1.149740934
+Kevin Magnussen completed lap  43:  1.154786825
+Nico Hulkenberg completed lap  40:  1.271119118
+***** George Russel has pitted on lap number:  40 *****
+Pierre Gasly completed lap  41:  1.255802751
+Sergio Perez completed lap  42:  1.268599272
+Lando Norris completed lap  44:  1.276623130
+***** Nico Hulkenberg has pitted on lap number:  40 *****
+Max Verstappen completed lap  45:  1.295939684
+Valtteri Bottas completed lap  41:  1.168166757
+Alexander Albon completed lap  43:  1.233458281
+Esteban Ocon completed lap  44:  1.288051248
+Nico Hulkenberg (Haas) - total race time:  49.688893794
+George Russel (Mercedes) - total race time:  50.214799524
+Carlos Sainz (Ferrari) - total race time:  50.397356867
+Pierre Gasly (Alpine) - total race time:  50.939212441
+Valtteri Bottas (Kick Sauber) - total race time:  51.076266649
+Yuki Tsunoda (RB) - total race time:  51.255789400
+Lewis Hamilton (Mercedes) - total race time:  51.912702442
+Sergio Perez (Red Bull Racing) - total race time:  52.144915700
+Kevin Magnussen (Haas) - total race time:  53.158845661
+Alexander Albon (Williams) - total race time:  53.663385032
+Zhou Guanyu (Kick Sauber) - total race time:  54.605854868
+Esteban Ocon (Alpine) - total race time:  54.660403133
+Lando Norris (McLaren) - total race time:  54.829644204
+Fernando Alonso (Aston Martin) - total race time:  55.291609288
+Charles Leclerc (Ferrari) - total race time:  55.296405555
+Oscar Piastri (McLaren) - total race time:  55.717135670
+Liam Lawson (RB) - total race time:  55.822221639
+Lance Stroll (Aston Martin) - total race time:  55.903110507
+Franco Collapinto (Williams) - total race time:  56.062457325
+Max Verstappen (Red Bull Racing) - total race time:  56.083412290
+
+Lewis Hamilton completed lap  43:  1.161815405
+Yuki Tsunoda completed lap  42:  1.287574768
+Zhou Guanyu completed lap  45:  1.151223421
+Kevin Magnussen completed lap  44:  1.184190750
+Carlos Sainz completed lap  41:  1.250059009
+Pierre Gasly completed lap  42:  1.191434145
+Lando Norris completed lap  45:  1.191300750
+Sergio Perez completed lap  43:  1.274838328
+George Russel completed lap  41:  1.295343399
+Alexander Albon completed lap  44:  1.223082781
+Valtteri Bottas completed lap  42:  1.265345097
+Esteban Ocon completed lap  45:  1.239076018
+Yuki Tsunoda completed lap  43:  1.231383204
+Kevin Magnussen completed lap  45:  1.147740841
+Lewis Hamilton completed lap  44:  1.286374092
+Nico Hulkenberg completed lap  41:  1.259930253
+Carlos Sainz completed lap  42:  1.194071174
+Pierre Gasly completed lap  43:  1.219513535
+Sergio Perez completed lap  44:  1.165314674
+George Russel completed lap  42:  1.258001089
+Nico Hulkenberg (Haas) - total race time:  51.448824047
+Valtteri Bottas (Kick Sauber) - total race time:  52.341611746
+George Russel (Mercedes) - total race time:  52.768144012
+Carlos Sainz (Ferrari) - total race time:  52.841487050
+Pierre Gasly (Alpine) - total race time:  53.350160121
+Yuki Tsunoda (RB) - total race time:  53.774747372
+Lewis Hamilton (Mercedes) - total race time:  54.360891939
+Sergio Perez (Red Bull Racing) - total race time:  54.585068702
+Alexander Albon (Williams) - total race time:  54.886467813
+Fernando Alonso (Aston Martin) - total race time:  55.291609288
+Charles Leclerc (Ferrari) - total race time:  55.296405555
+Kevin Magnussen (Haas) - total race time:  55.490777252
+Oscar Piastri (McLaren) - total race time:  55.717135670
+Zhou Guanyu (Kick Sauber) - total race time:  55.757078289
+Liam Lawson (RB) - total race time:  55.822221639
+Esteban Ocon (Alpine) - total race time:  55.899479151
+Lance Stroll (Aston Martin) - total race time:  55.903110507
+Lando Norris (McLaren) - total race time:  56.020944954
+Franco Collapinto (Williams) - total race time:  56.062457325
+Max Verstappen (Red Bull Racing) - total race time:  56.083412290
+
+Alexander Albon completed lap  45:  1.287795424
+Valtteri Bottas completed lap  43:  1.296624303
+Lewis Hamilton completed lap  45:  1.178285718
+Yuki Tsunoda completed lap  44:  1.288157940
+Nico Hulkenberg completed lap  42:  1.280005097
+Carlos Sainz completed lap  43:  1.272970200
+Pierre Gasly completed lap  44:  1.260114193
+Sergio Perez completed lap  45:  1.288107872
+Valtteri Bottas completed lap  44:  1.184867263
+George Russel completed lap  43:  1.284689426
+Yuki Tsunoda completed lap  45:  1.210450649
+Nico Hulkenberg completed lap  43:  1.218666315
+Carlos Sainz completed lap  44:  1.225149751
+Pierre Gasly completed lap  45:  1.249699831
+Valtteri Bottas completed lap  45:  1.164208651
+George Russel completed lap  44:  1.292837143
+Nico Hulkenberg completed lap  44:  1.234881520
+Carlos Sainz completed lap  45:  1.171145558
+George Russel completed lap  45:  1.261070967
+Nico Hulkenberg completed lap  45:  1.247172236
+Fernando Alonso (Aston Martin) - total race time:  55.291609288
+Charles Leclerc (Ferrari) - total race time:  55.296405555
+Kevin Magnussen (Haas) - total race time:  55.490777252
+Lewis Hamilton (Mercedes) - total race time:  55.539177657
+Oscar Piastri (McLaren) - total race time:  55.717135670
+Zhou Guanyu (Kick Sauber) - total race time:  55.757078289
+Liam Lawson (RB) - total race time:  55.822221639
+Pierre Gasly (Alpine) - total race time:  55.859974145
+Sergio Perez (Red Bull Racing) - total race time:  55.873176574
+Esteban Ocon (Alpine) - total race time:  55.899479151
+Lance Stroll (Aston Martin) - total race time:  55.903110507
+Valtteri Bottas (Kick Sauber) - total race time:  55.987311963
+Lando Norris (McLaren) - total race time:  56.020944954
+Franco Collapinto (Williams) - total race time:  56.062457325
+Max Verstappen (Red Bull Racing) - total race time:  56.083412290
+Alexander Albon (Williams) - total race time:  56.174263237
+Yuki Tsunoda (RB) - total race time:  56.273355961
+Nico Hulkenberg (Haas) - total race time:  56.429549215
+Carlos Sainz (Ferrari) - total race time:  56.510752559
+George Russel (Mercedes) - total race time:  56.606741548
+
